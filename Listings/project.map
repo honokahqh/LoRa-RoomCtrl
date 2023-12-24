@@ -1,0 +1,3356 @@
+Archive member included to satisfy reference by file (symbol)
+
+e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldf3.o)
+                              ./objects/printf-stdarg.o (__aeabi_dmul)
+e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubdf3.o)
+                              ./objects/printf-stdarg.o (__aeabi_dsub)
+e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivdf3.o)
+                              ./objects/printf-stdarg.o (__aeabi_ddiv)
+e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpdf2.o)
+                              ./objects/printf-stdarg.o (__aeabi_dcmpeq)
+e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixdfsi.o)
+                              ./objects/printf-stdarg.o (__aeabi_d2iz)
+e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunsdfsi.o)
+                              ./objects/printf-stdarg.o (__aeabi_d2uiz)
+e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+                              ./objects/printf-stdarg.o (__aeabi_uldivmod)
+e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_fixunsdfdi.o)
+                              ./objects/rtc-board.o (__aeabi_d2ulz)
+e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+                              e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+                              e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atoi.o)
+                              ./objects/lora_at_cmd.o (atoi)
+e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o)
+                              e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (exit)
+e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-impure.o)
+                              e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o) (_global_impure_ptr)
+e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-init.o)
+                              e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (__libc_init_array)
+e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memcpy.o)
+                              ./objects/tremo_flash.o (memcpy)
+e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memset.o)
+                              e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (memset)
+e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strlen.o)
+                              ./objects/lora_at_cmd.o (strlen)
+e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strncmp.o)
+                              ./objects/lora_at_cmd.o (strncmp)
+e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strncpy.o)
+                              ./objects/ringbuff.o (strncpy)
+e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strtol.o)
+                              e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atoi.o) (_strtol_r)
+e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+                              e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o) (__call_exitprocs)
+e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atexit.o)
+                              e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o) (atexit)
+e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-ctype_.o)
+                              e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strtol.o) (_ctype_)
+e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-errno.o)
+                              e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strtol.o) (__errno)
+e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-fini.o)
+                              e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                              e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__atexit.o)
+                              e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atexit.o) (__register_exitproc)
+e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a(lib_a-s_ceil.o)
+                              ./objects/radio.o (ceil)
+e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a(lib_a-s_floor.o)
+                              ./objects/radio.o (floor)
+e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a(lib_a-s_rint.o)
+                              ./objects/radio.o (rint)
+e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a(lib_a-s_round.o)
+                              ./objects/rtc-board.o (round)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
+ .data          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
+ .bss           0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
+ .data          0x00000000        0x4 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .rodata        0x00000000       0x24 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .text          0x00000000       0x7c e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .data          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .bss           0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.extab     0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.exidx     0x00000000       0x10 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.attributes
+                0x00000000       0x1c e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .text          0x00000000       0x14 ./objects/startup_cm4.o
+ .data          0x00000000        0x0 ./objects/startup_cm4.o
+ .bss           0x00000000        0x0 ./objects/startup_cm4.o
+ .text          0x00000000        0x0 ./objects/system_cm4.o
+ .data          0x00000000        0x0 ./objects/system_cm4.o
+ .bss           0x00000000        0x0 ./objects/system_cm4.o
+ .text          0x00000000        0x0 ./objects/printf-stdarg.o
+ .data          0x00000000        0x0 ./objects/printf-stdarg.o
+ .bss           0x00000000        0x0 ./objects/printf-stdarg.o
+ .text._out_buffer
+                0x00000000        0x8 ./objects/printf-stdarg.o
+ .text._out_null
+                0x00000000        0x2 ./objects/printf-stdarg.o
+ .text._out_rev
+                0x00000000       0x86 ./objects/printf-stdarg.o
+ .text._ntoa_format
+                0x00000000      0x10a ./objects/printf-stdarg.o
+ .text._ntoa_long
+                0x00000000       0x84 ./objects/printf-stdarg.o
+ .text._ntoa_long_long
+                0x00000000       0xb6 ./objects/printf-stdarg.o
+ .text._etoa    0x00000000      0x394 ./objects/printf-stdarg.o
+ .rodata.str1.1
+                0x00000000       0x19 ./objects/printf-stdarg.o
+ .text._ftoa    0x00000000      0x358 ./objects/printf-stdarg.o
+ .text._out_char
+                0x00000000       0x10 ./objects/printf-stdarg.o
+ .text._vsnprintf
+                0x00000000      0x548 ./objects/printf-stdarg.o
+ .text.print_isdone
+                0x00000000       0x2c ./objects/printf-stdarg.o
+ .text.__wrap_printf
+                0x00000000       0x28 ./objects/printf-stdarg.o
+ .text.__wrap_sprintf
+                0x00000000       0x28 ./objects/printf-stdarg.o
+ .text.__wrap_snprintf
+                0x00000000       0x28 ./objects/printf-stdarg.o
+ .rodata        0x00000000       0x50 ./objects/printf-stdarg.o
+ .debug_info    0x00000000     0x196e ./objects/printf-stdarg.o
+ .debug_abbrev  0x00000000      0x3df ./objects/printf-stdarg.o
+ .debug_loc     0x00000000     0x27a7 ./objects/printf-stdarg.o
+ .debug_aranges
+                0x00000000       0x88 ./objects/printf-stdarg.o
+ .debug_ranges  0x00000000      0x1d0 ./objects/printf-stdarg.o
+ .debug_line    0x00000000     0x10a7 ./objects/printf-stdarg.o
+ .debug_str     0x00000000      0x515 ./objects/printf-stdarg.o
+ .comment       0x00000000       0x4a ./objects/printf-stdarg.o
+ .debug_frame   0x00000000      0x314 ./objects/printf-stdarg.o
+ .ARM.attributes
+                0x00000000       0x32 ./objects/printf-stdarg.o
+ .text          0x00000000        0x0 ./objects/tremo_adc.o
+ .data          0x00000000        0x0 ./objects/tremo_adc.o
+ .bss           0x00000000        0x0 ./objects/tremo_adc.o
+ .text.read_write_adc_afec
+                0x00000000       0x34 ./objects/tremo_adc.o
+ .text.adc_init
+                0x00000000       0x18 ./objects/tremo_adc.o
+ .text.adc_start
+                0x00000000       0x2c ./objects/tremo_adc.o
+ .text.adc_enable
+                0x00000000       0x28 ./objects/tremo_adc.o
+ .text.adc_enable_dma
+                0x00000000       0x18 ./objects/tremo_adc.o
+ .text.adc_retain_data_when_overrun
+                0x00000000       0x18 ./objects/tremo_adc.o
+ .text.adc_enable_wait_mode
+                0x00000000       0x18 ./objects/tremo_adc.o
+ .text.adc_config_clock_division
+                0x00000000       0x20 ./objects/tremo_adc.o
+ .text.adc_config_trigger_source
+                0x00000000       0x18 ./objects/tremo_adc.o
+ .text.adc_config_trigger_polarity
+                0x00000000       0x18 ./objects/tremo_adc.o
+ .text.adc_config_conv_mode
+                0x00000000       0x18 ./objects/tremo_adc.o
+ .text.adc_config_sample_sequence
+                0x00000000       0x2c ./objects/tremo_adc.o
+ .text.adc_config_sample_chan_diff
+                0x00000000       0x18 ./objects/tremo_adc.o
+ .text.adc_get_interrupt_status
+                0x00000000       0x14 ./objects/tremo_adc.o
+ .text.adc_clear_interrupt_status
+                0x00000000       0x18 ./objects/tremo_adc.o
+ .text.adc_config_interrupt
+                0x00000000       0x18 ./objects/tremo_adc.o
+ .text.adc_get_data
+                0x00000000       0x10 ./objects/tremo_adc.o
+ .text.adc_get_calibration_value
+                0x00000000       0x70 ./objects/tremo_adc.o
+ .text.adc_enable_vbat31
+                0x00000000       0x1c ./objects/tremo_adc.o
+ .text.adc_config_ref_voltage
+                0x00000000       0x20 ./objects/tremo_adc.o
+ .debug_info    0x00000000      0x978 ./objects/tremo_adc.o
+ .debug_abbrev  0x00000000      0x22f ./objects/tremo_adc.o
+ .debug_loc     0x00000000      0x39a ./objects/tremo_adc.o
+ .debug_aranges
+                0x00000000       0xb8 ./objects/tremo_adc.o
+ .debug_ranges  0x00000000       0xa8 ./objects/tremo_adc.o
+ .debug_line    0x00000000      0x54d ./objects/tremo_adc.o
+ .debug_str     0x00000000      0xc24 ./objects/tremo_adc.o
+ .comment       0x00000000       0x4a ./objects/tremo_adc.o
+ .debug_frame   0x00000000      0x178 ./objects/tremo_adc.o
+ .ARM.attributes
+                0x00000000       0x32 ./objects/tremo_adc.o
+ .text          0x00000000        0x0 ./objects/tremo_bstimer.o
+ .data          0x00000000        0x0 ./objects/tremo_bstimer.o
+ .bss           0x00000000        0x0 ./objects/tremo_bstimer.o
+ .text.bstimer_deinit
+                0x00000000       0x4c ./objects/tremo_bstimer.o
+ .text.bstimer_config_one_pulse
+                0x00000000       0x12 ./objects/tremo_bstimer.o
+ .text.bstimer_config_update_disable
+                0x00000000       0x12 ./objects/tremo_bstimer.o
+ .text.bstimer_config_dma
+                0x00000000       0x12 ./objects/tremo_bstimer.o
+ .text.bstimer_generate_event
+                0x00000000       0x10 ./objects/tremo_bstimer.o
+ .text          0x00000000        0x0 ./objects/tremo_crc.o
+ .data          0x00000000        0x0 ./objects/tremo_crc.o
+ .bss           0x00000000        0x0 ./objects/tremo_crc.o
+ .text.crc_deinit
+                0x00000000       0x1e ./objects/tremo_crc.o
+ .text.crc_init
+                0x00000000       0x20 ./objects/tremo_crc.o
+ .text.crc_calc32
+                0x00000000       0x20 ./objects/tremo_crc.o
+ .text.crc_calc16
+                0x00000000       0x20 ./objects/tremo_crc.o
+ .text.crc_calc8
+                0x00000000       0x20 ./objects/tremo_crc.o
+ .debug_info    0x00000000      0x4d8 ./objects/tremo_crc.o
+ .debug_abbrev  0x00000000      0x1ab ./objects/tremo_crc.o
+ .debug_loc     0x00000000      0x1ae ./objects/tremo_crc.o
+ .debug_aranges
+                0x00000000       0x40 ./objects/tremo_crc.o
+ .debug_ranges  0x00000000       0x78 ./objects/tremo_crc.o
+ .debug_line    0x00000000      0x2ce ./objects/tremo_crc.o
+ .debug_str     0x00000000      0x6ee ./objects/tremo_crc.o
+ .comment       0x00000000       0x4a ./objects/tremo_crc.o
+ .debug_frame   0x00000000       0x6c ./objects/tremo_crc.o
+ .ARM.attributes
+                0x00000000       0x32 ./objects/tremo_crc.o
+ .text          0x00000000        0x0 ./objects/tremo_dac.o
+ .data          0x00000000        0x0 ./objects/tremo_dac.o
+ .bss           0x00000000        0x0 ./objects/tremo_dac.o
+ .text.dac_deinit
+                0x00000000       0x1e ./objects/tremo_dac.o
+ .text.dac_init
+                0x00000000       0x4c ./objects/tremo_dac.o
+ .text.dac_cmd  0x00000000       0x5c ./objects/tremo_dac.o
+ .text.dac_software_trigger_cmd
+                0x00000000       0x18 ./objects/tremo_dac.o
+ .text.dac_dma_cmd
+                0x00000000       0x18 ./objects/tremo_dac.o
+ .text.dac_write_data
+                0x00000000        0xc ./objects/tremo_dac.o
+ .text.dac_read_output_data
+                0x00000000        0xc ./objects/tremo_dac.o
+ .text.dac_config_interrupt
+                0x00000000       0x20 ./objects/tremo_dac.o
+ .text.dac_get_interrupt_status
+                0x00000000       0x18 ./objects/tremo_dac.o
+ .text.dac_clear_interrupt
+                0x00000000       0x10 ./objects/tremo_dac.o
+ .debug_info    0x00000000      0x5d5 ./objects/tremo_dac.o
+ .debug_abbrev  0x00000000      0x1c5 ./objects/tremo_dac.o
+ .debug_loc     0x00000000       0x9b ./objects/tremo_dac.o
+ .debug_aranges
+                0x00000000       0x68 ./objects/tremo_dac.o
+ .debug_ranges  0x00000000       0x58 ./objects/tremo_dac.o
+ .debug_line    0x00000000      0x2e3 ./objects/tremo_dac.o
+ .debug_str     0x00000000      0x954 ./objects/tremo_dac.o
+ .comment       0x00000000       0x4a ./objects/tremo_dac.o
+ .debug_frame   0x00000000       0xbc ./objects/tremo_dac.o
+ .ARM.attributes
+                0x00000000       0x32 ./objects/tremo_dac.o
+ .text          0x00000000        0x0 ./objects/tremo_delay.o
+ .data          0x00000000        0x0 ./objects/tremo_delay.o
+ .text          0x00000000        0x0 ./objects/tremo_dma.o
+ .data          0x00000000        0x0 ./objects/tremo_dma.o
+ .bss           0x00000000       0x20 ./objects/tremo_dma.o
+ .text.write32_bit_reg.part.0
+                0x00000000       0x1e ./objects/tremo_dma.o
+ .text.set_dma_mode
+                0x00000000      0x294 ./objects/tremo_dma.o
+ .text.dma0_IRQHandler
+                0x00000000       0x64 ./objects/tremo_dma.o
+ .text.dma1_IRQHandler
+                0x00000000       0x68 ./objects/tremo_dma.o
+ .text.dma_init
+                0x00000000      0x12c ./objects/tremo_dma.o
+ .text.dma_lli_init
+                0x00000000      0x220 ./objects/tremo_dma.o
+ .text.dma_config_reload
+                0x00000000       0x42 ./objects/tremo_dma.o
+ .text.dma_deinit
+                0x00000000       0x3e ./objects/tremo_dma.o
+ .text.dma_addr_update
+                0x00000000       0x70 ./objects/tremo_dma.o
+ .text.dma_ch_enable
+                0x00000000       0x5e ./objects/tremo_dma.o
+ .text.dma_ch_disable
+                0x00000000       0x2c ./objects/tremo_dma.o
+ .text.dma_finalize
+                0x00000000      0x13c ./objects/tremo_dma.o
+ .debug_info    0x00000000     0x3442 ./objects/tremo_dma.o
+ .debug_abbrev  0x00000000      0x41f ./objects/tremo_dma.o
+ .debug_loc     0x00000000     0x3265 ./objects/tremo_dma.o
+ .debug_aranges
+                0x00000000       0x78 ./objects/tremo_dma.o
+ .debug_ranges  0x00000000      0x1b0 ./objects/tremo_dma.o
+ .debug_line    0x00000000     0x1732 ./objects/tremo_dma.o
+ .debug_str     0x00000000      0xc0a ./objects/tremo_dma.o
+ .comment       0x00000000       0x4a ./objects/tremo_dma.o
+ .debug_frame   0x00000000      0x134 ./objects/tremo_dma.o
+ .ARM.attributes
+                0x00000000       0x32 ./objects/tremo_dma.o
+ .text          0x00000000        0x0 ./objects/tremo_flash.o
+ .data          0x00000000        0x0 ./objects/tremo_flash.o
+ .bss           0x00000000        0x0 ./objects/tremo_flash.o
+ .text.flash_erase_all
+                0x00000000       0x68 ./objects/tremo_flash.o
+ .text.flash_program_line
+                0x00000000       0x94 ./objects/tremo_flash.o
+ .text.flash_otp_program_data
+                0x00000000       0x4c ./objects/tremo_flash.o
+ .text          0x00000000        0x0 ./objects/tremo_gpio.o
+ .data          0x00000000        0x0 ./objects/tremo_gpio.o
+ .bss           0x00000000        0x0 ./objects/tremo_gpio.o
+ .text.gpio_deinit
+                0x00000000       0x36 ./objects/tremo_gpio.o
+ .text.gpio_toggle
+                0x00000000        0xe ./objects/tremo_gpio.o
+ .text.gpio_config_drive_capability
+                0x00000000       0x16 ./objects/tremo_gpio.o
+ .text.gpio_config_wakeup
+                0x00000000       0x2a ./objects/tremo_gpio.o
+ .text.gpio_config_stop3_wakeup
+                0x00000000       0x68 ./objects/tremo_gpio.o
+ .text          0x00000000        0x0 ./objects/tremo_i2c.o
+ .data          0x00000000        0x0 ./objects/tremo_i2c.o
+ .bss           0x00000000        0x0 ./objects/tremo_i2c.o
+ .text.i2c_deinit
+                0x00000000       0x3c ./objects/tremo_i2c.o
+ .text.i2c_config_init
+                0x00000000        0x8 ./objects/tremo_i2c.o
+ .text.i2c_init
+                0x00000000       0xa0 ./objects/tremo_i2c.o
+ .text.i2c_cmd  0x00000000       0x22 ./objects/tremo_i2c.o
+ .text.i2c_dma_cmd
+                0x00000000       0x12 ./objects/tremo_i2c.o
+ .text.i2c_config_interrupt
+                0x00000000       0x36 ./objects/tremo_i2c.o
+ .text.i2c_clear_interrupt
+                0x00000000        0xa ./objects/tremo_i2c.o
+ .text.i2c_master_send_start
+                0x00000000       0x38 ./objects/tremo_i2c.o
+ .text.i2c_master_send_stop
+                0x00000000       0x12 ./objects/tremo_i2c.o
+ .text.i2c_master_send_stop_with_data
+                0x00000000       0x2a ./objects/tremo_i2c.o
+ .text.i2c_send_data
+                0x00000000       0x22 ./objects/tremo_i2c.o
+ .text.i2c_receive_data
+                0x00000000        0xe ./objects/tremo_i2c.o
+ .text.i2c_set_receive_mode
+                0x00000000       0x38 ./objects/tremo_i2c.o
+ .text.i2c_clear_flag_status
+                0x00000000        0xa ./objects/tremo_i2c.o
+ .text.i2c_get_flag_status
+                0x00000000       0x28 ./objects/tremo_i2c.o
+ .text.i2c_get_interrupt_status
+                0x00000000       0x12 ./objects/tremo_i2c.o
+ .debug_info    0x00000000      0xae3 ./objects/tremo_i2c.o
+ .debug_abbrev  0x00000000      0x2fa ./objects/tremo_i2c.o
+ .debug_loc     0x00000000      0x4dc ./objects/tremo_i2c.o
+ .debug_aranges
+                0x00000000       0x90 ./objects/tremo_i2c.o
+ .debug_ranges  0x00000000       0x98 ./objects/tremo_i2c.o
+ .debug_line    0x00000000      0x625 ./objects/tremo_i2c.o
+ .debug_str     0x00000000      0xb41 ./objects/tremo_i2c.o
+ .comment       0x00000000       0x4a ./objects/tremo_i2c.o
+ .debug_frame   0x00000000      0x12c ./objects/tremo_i2c.o
+ .ARM.attributes
+                0x00000000       0x32 ./objects/tremo_i2c.o
+ .text          0x00000000        0x0 ./objects/tremo_i2s.o
+ .data          0x00000000        0x0 ./objects/tremo_i2s.o
+ .bss           0x00000000        0x0 ./objects/tremo_i2s.o
+ .text.i2s_init_struct
+                0x00000000        0xc ./objects/tremo_i2s.o
+ .text.i2s_calculate_devision
+                0x00000000       0x2c ./objects/tremo_i2s.o
+ .text.i2s_config_interrupt
+                0x00000000       0x10 ./objects/tremo_i2s.o
+ .text.i2s_clear_interrupt
+                0x00000000       0x10 ./objects/tremo_i2s.o
+ .text.i2s_get_interrupt_status
+                0x00000000        0xc ./objects/tremo_i2s.o
+ .text.i2s_cmd  0x00000000       0x10 ./objects/tremo_i2s.o
+ .text.i2s_tx_block_cmd
+                0x00000000       0x10 ./objects/tremo_i2s.o
+ .text.i2s_rx_block_cmd
+                0x00000000       0x10 ./objects/tremo_i2s.o
+ .text.i2s_tx_channel_cmd
+                0x00000000       0x10 ./objects/tremo_i2s.o
+ .text.i2s_rx_channel_cmd
+                0x00000000       0x10 ./objects/tremo_i2s.o
+ .text.i2s_master_clock_cmd
+                0x00000000       0x10 ./objects/tremo_i2s.o
+ .text.i2s_init
+                0x00000000       0x46 ./objects/tremo_i2s.o
+ .text.i2s_deinit
+                0x00000000       0x2c ./objects/tremo_i2s.o
+ .text.i2s_receive_data
+                0x00000000        0xa ./objects/tremo_i2s.o
+ .text.i2s_send_data
+                0x00000000       0x3a ./objects/tremo_i2s.o
+ .debug_info    0x00000000      0x929 ./objects/tremo_i2s.o
+ .debug_abbrev  0x00000000      0x261 ./objects/tremo_i2s.o
+ .debug_loc     0x00000000      0x261 ./objects/tremo_i2s.o
+ .debug_aranges
+                0x00000000       0x90 ./objects/tremo_i2s.o
+ .debug_ranges  0x00000000       0x98 ./objects/tremo_i2s.o
+ .debug_line    0x00000000      0x4c4 ./objects/tremo_i2s.o
+ .debug_str     0x00000000      0x7f8 ./objects/tremo_i2s.o
+ .comment       0x00000000       0x4a ./objects/tremo_i2s.o
+ .debug_frame   0x00000000      0x11c ./objects/tremo_i2s.o
+ .ARM.attributes
+                0x00000000       0x32 ./objects/tremo_i2s.o
+ .text          0x00000000        0x0 ./objects/tremo_iwdg.o
+ .data          0x00000000        0x0 ./objects/tremo_iwdg.o
+ .bss           0x00000000        0x0 ./objects/tremo_iwdg.o
+ .text.check_iwdg_sr_done
+                0x00000000       0x14 ./objects/tremo_iwdg.o
+ .text.iwdg_config_interrupt
+                0x00000000       0x18 ./objects/tremo_iwdg.o
+ .text.iwdg_clear_interrupt
+                0x00000000       0x14 ./objects/tremo_iwdg.o
+ .text.iwdg_deinit
+                0x00000000       0x1e ./objects/tremo_iwdg.o
+ .text.iwdg_init
+                0x00000000       0x4c ./objects/tremo_iwdg.o
+ .text.iwdg_set_prescaler
+                0x00000000       0x18 ./objects/tremo_iwdg.o
+ .text.iwdg_set_reload
+                0x00000000       0x1c ./objects/tremo_iwdg.o
+ .text.iwdg_set_window_value
+                0x00000000       0x1c ./objects/tremo_iwdg.o
+ .text.iwdg_reload
+                0x00000000       0x20 ./objects/tremo_iwdg.o
+ .text.iwdg_start
+                0x00000000       0x1c ./objects/tremo_iwdg.o
+ .text.iwdg_stop
+                0x00000000       0x1c ./objects/tremo_iwdg.o
+ .debug_info    0x00000000      0x586 ./objects/tremo_iwdg.o
+ .debug_abbrev  0x00000000      0x1b9 ./objects/tremo_iwdg.o
+ .debug_loc     0x00000000      0x193 ./objects/tremo_iwdg.o
+ .debug_aranges
+                0x00000000       0x70 ./objects/tremo_iwdg.o
+ .debug_ranges  0x00000000       0x60 ./objects/tremo_iwdg.o
+ .debug_line    0x00000000      0x399 ./objects/tremo_iwdg.o
+ .debug_str     0x00000000      0x718 ./objects/tremo_iwdg.o
+ .comment       0x00000000       0x4a ./objects/tremo_iwdg.o
+ .debug_frame   0x00000000      0x10c ./objects/tremo_iwdg.o
+ .ARM.attributes
+                0x00000000       0x32 ./objects/tremo_iwdg.o
+ .text          0x00000000        0x0 ./objects/tremo_lcd.o
+ .data          0x00000000        0x0 ./objects/tremo_lcd.o
+ .bss           0x00000000        0x0 ./objects/tremo_lcd.o
+ .text.lcd_check_sync_done
+                0x00000000       0x18 ./objects/tremo_lcd.o
+ .text.lcd_enable
+                0x00000000       0x28 ./objects/tremo_lcd.o
+ .text.lcd_config_duty
+                0x00000000       0x30 ./objects/tremo_lcd.o
+ .text.lcd_config_bias
+                0x00000000       0x2c ./objects/tremo_lcd.o
+ .text.lcd_config_prescaler
+                0x00000000       0x2c ./objects/tremo_lcd.o
+ .text.lcd_config_division_clock
+                0x00000000       0x2c ./objects/tremo_lcd.o
+ .text.lcd_init
+                0x00000000       0x22 ./objects/tremo_lcd.o
+ .text.lcd_config_blink_freq
+                0x00000000       0x2c ./objects/tremo_lcd.o
+ .text.lcd_config_blink_sel
+                0x00000000       0x2c ./objects/tremo_lcd.o
+ .text.lcd_config_dead_cycle
+                0x00000000       0x2c ./objects/tremo_lcd.o
+ .text.lcd_enable_switch
+                0x00000000       0x28 ./objects/tremo_lcd.o
+ .text.lcd_config_large_current_num
+                0x00000000       0x2c ./objects/tremo_lcd.o
+ .text.lcd_write_com_seg_bit
+                0x00000000       0x8c ./objects/tremo_lcd.o
+ .text.lcd_clear_com_seg_state
+                0x00000000       0x50 ./objects/tremo_lcd.o
+ .text.lcd_config_drive_mode
+                0x00000000       0x1c ./objects/tremo_lcd.o
+ .text.lcd_config_interrupt
+                0x00000000       0x18 ./objects/tremo_lcd.o
+ .text.lcd_get_interrupt_status
+                0x00000000       0x10 ./objects/tremo_lcd.o
+ .text.lcd_clear_interrupt_status
+                0x00000000       0x10 ./objects/tremo_lcd.o
+ .text.lcd_enable_com
+                0x00000000       0x48 ./objects/tremo_lcd.o
+ .text.lcd_enable_seg
+                0x00000000       0x30 ./objects/tremo_lcd.o
+ .text.lcd_enable_analog
+                0x00000000       0x10 ./objects/tremo_lcd.o
+ .debug_info    0x00000000      0xb95 ./objects/tremo_lcd.o
+ .debug_abbrev  0x00000000      0x28c ./objects/tremo_lcd.o
+ .debug_loc     0x00000000      0x733 ./objects/tremo_lcd.o
+ .debug_aranges
+                0x00000000       0xc0 ./objects/tremo_lcd.o
+ .debug_ranges  0x00000000       0xb0 ./objects/tremo_lcd.o
+ .debug_line    0x00000000      0x8eb ./objects/tremo_lcd.o
+ .debug_str     0x00000000      0xbd6 ./objects/tremo_lcd.o
+ .comment       0x00000000       0x4a ./objects/tremo_lcd.o
+ .debug_frame   0x00000000      0x1e8 ./objects/tremo_lcd.o
+ .ARM.attributes
+                0x00000000       0x32 ./objects/tremo_lcd.o
+ .text          0x00000000        0x0 ./objects/tremo_lptimer.o
+ .data          0x00000000        0x0 ./objects/tremo_lptimer.o
+ .bss           0x00000000        0x0 ./objects/tremo_lptimer.o
+ .text.lptimer_init
+                0x00000000       0x72 ./objects/tremo_lptimer.o
+ .text.lptimer_deinit
+                0x00000000       0x4c ./objects/tremo_lptimer.o
+ .text.lptimer_enable_clock_filter
+                0x00000000       0x18 ./objects/tremo_lptimer.o
+ .text.lptimer_enable_trigger_filter
+                0x00000000       0x18 ./objects/tremo_lptimer.o
+ .text.lptimer_config_wakeup
+                0x00000000       0x16 ./objects/tremo_lptimer.o
+ .text.lptimer_config_timeout
+                0x00000000       0x18 ./objects/tremo_lptimer.o
+ .text.lptimer_config_wave
+                0x00000000       0x18 ./objects/tremo_lptimer.o
+ .text.lptimer_config_encoder
+                0x00000000       0x18 ./objects/tremo_lptimer.o
+ .text.lptimer_config_trigger_polarity
+                0x00000000       0x1c ./objects/tremo_lptimer.o
+ .text.lptimer_config_trigger_source
+                0x00000000       0x1c ./objects/tremo_lptimer.o
+ .text.lptimer_config_clock_prescaler
+                0x00000000       0x1c ./objects/tremo_lptimer.o
+ .text.lptimer_config_trigger_filter
+                0x00000000       0x1c ./objects/tremo_lptimer.o
+ .text.lptimer_config_clock_filter
+                0x00000000       0x1c ./objects/tremo_lptimer.o
+ .text.lptimer_config_clock_polarity
+                0x00000000       0x1c ./objects/tremo_lptimer.o
+ .text.lptimer_cmd
+                0x00000000       0x18 ./objects/tremo_lptimer.o
+ .text.lptimer_config_count_mode
+                0x00000000       0x16 ./objects/tremo_lptimer.o
+ .text.lptimer_config_interrupt
+                0x00000000       0x10 ./objects/tremo_lptimer.o
+ .text.lptimer_clear_interrupt
+                0x00000000        0x8 ./objects/tremo_lptimer.o
+ .text.lptimer_set_arr_register
+                0x00000000        0xa ./objects/tremo_lptimer.o
+ .text.lptimer_set_cmp_register
+                0x00000000        0xa ./objects/tremo_lptimer.o
+ .text.lptimer_get_status
+                0x00000000        0xe ./objects/tremo_lptimer.o
+ .text.lptimer_get_clear_status_flag
+                0x00000000        0xe ./objects/tremo_lptimer.o
+ .text.lptimer_get_interrupt_status
+                0x00000000        0xe ./objects/tremo_lptimer.o
+ .debug_info    0x00000000     0x1172 ./objects/tremo_lptimer.o
+ .debug_abbrev  0x00000000      0x2b0 ./objects/tremo_lptimer.o
+ .debug_loc     0x00000000      0x60a ./objects/tremo_lptimer.o
+ .debug_aranges
+                0x00000000       0xd0 ./objects/tremo_lptimer.o
+ .debug_ranges  0x00000000       0xc0 ./objects/tremo_lptimer.o
+ .debug_line    0x00000000      0xaef ./objects/tremo_lptimer.o
+ .debug_str     0x00000000      0xeeb ./objects/tremo_lptimer.o
+ .comment       0x00000000       0x4a ./objects/tremo_lptimer.o
+ .debug_frame   0x00000000      0x190 ./objects/tremo_lptimer.o
+ .ARM.attributes
+                0x00000000       0x32 ./objects/tremo_lptimer.o
+ .text          0x00000000        0x0 ./objects/tremo_lpuart.o
+ .data          0x00000000        0x0 ./objects/tremo_lpuart.o
+ .bss           0x00000000        0x0 ./objects/tremo_lpuart.o
+ .text.lpuart_config_dma
+                0x00000000       0x10 ./objects/tremo_lpuart.o
+ .text.lpuart_config_interrupt
+                0x00000000        0x4 ./objects/tremo_lpuart.o
+ .text.lpuart_config_rts
+                0x00000000       0x26 ./objects/tremo_lpuart.o
+ .text.lpuart_config_rx
+                0x00000000       0x26 ./objects/tremo_lpuart.o
+ .text.lpuart_config_cts
+                0x00000000       0x12 ./objects/tremo_lpuart.o
+ .text.lpuart_config_tx
+                0x00000000       0x12 ./objects/tremo_lpuart.o
+ .text.lpuart_get_rx_status
+                0x00000000       0x12 ./objects/tremo_lpuart.o
+ .text.lpuart_clear_rx_status
+                0x00000000       0x18 ./objects/tremo_lpuart.o
+ .text.lpuart_get_rx_not_empty_status
+                0x00000000        0x8 ./objects/tremo_lpuart.o
+ .text.lpuart_receive_data
+                0x00000000       0x10 ./objects/tremo_lpuart.o
+ .text.lpuart_get_tx_empty_status
+                0x00000000        0x8 ./objects/tremo_lpuart.o
+ .text.lpuart_send_data
+                0x00000000        0xe ./objects/tremo_lpuart.o
+ .text.lpuart_get_tx_done_status
+                0x00000000        0x8 ./objects/tremo_lpuart.o
+ .text.lpuart_clear_tx_done_status
+                0x00000000        0xa ./objects/tremo_lpuart.o
+ .text.lpuart_init
+                0x00000000       0x88 ./objects/tremo_lpuart.o
+ .text.lpuart_deinit
+                0x00000000       0x2c ./objects/tremo_lpuart.o
+ .debug_info    0x00000000      0x97f ./objects/tremo_lpuart.o
+ .debug_abbrev  0x00000000      0x222 ./objects/tremo_lpuart.o
+ .debug_loc     0x00000000      0x3f1 ./objects/tremo_lpuart.o
+ .debug_aranges
+                0x00000000       0x90 ./objects/tremo_lpuart.o
+ .debug_ranges  0x00000000       0x80 ./objects/tremo_lpuart.o
+ .debug_line    0x00000000      0x505 ./objects/tremo_lpuart.o
+ .debug_str     0x00000000      0xc63 ./objects/tremo_lpuart.o
+ .comment       0x00000000       0x4a ./objects/tremo_lpuart.o
+ .debug_frame   0x00000000      0x13c ./objects/tremo_lpuart.o
+ .ARM.attributes
+                0x00000000       0x32 ./objects/tremo_lpuart.o
+ .text          0x00000000        0x0 ./objects/tremo_pwr.o
+ .data          0x00000000        0x0 ./objects/tremo_pwr.o
+ .bss           0x00000000        0x0 ./objects/tremo_pwr.o
+ .text.deepsleep
+                0x00000000       0xc0 ./objects/tremo_pwr.o
+ .text.pwr_deepsleep_wfi
+                0x00000000        0x6 ./objects/tremo_pwr.o
+ .text.pwr_deepsleep_wfe
+                0x00000000        0x6 ./objects/tremo_pwr.o
+ .text.pwr_enter_lprun_mode
+                0x00000000       0x18 ./objects/tremo_pwr.o
+ .text.pwr_sleep_wfi
+                0x00000000       0x18 ./objects/tremo_pwr.o
+ .text.pwr_sleep_wfe
+                0x00000000        0xc ./objects/tremo_pwr.o
+ .text.pwr_exit_lprun_mode
+                0x00000000       0x18 ./objects/tremo_pwr.o
+ .text          0x00000000        0x0 ./objects/tremo_rcc.o
+ .data          0x00000000        0x0 ./objects/tremo_rcc.o
+ .bss           0x00000000        0x0 ./objects/tremo_rcc.o
+ .text.rcc_set_sys_clk_source
+                0x00000000       0x10 ./objects/tremo_rcc.o
+ .text.rcc_set_systick_source
+                0x00000000       0x28 ./objects/tremo_rcc.o
+ .text.rcc_set_mco_clk_source
+                0x00000000       0x28 ./objects/tremo_rcc.o
+ .text.rcc_set_uart0_clk_source
+                0x00000000       0x28 ./objects/tremo_rcc.o
+ .text.rcc_set_uart1_clk_source
+                0x00000000       0x28 ./objects/tremo_rcc.o
+ .text.rcc_set_uart2_clk_source
+                0x00000000       0x28 ./objects/tremo_rcc.o
+ .text.rcc_set_uart3_clk_source
+                0x00000000       0x28 ./objects/tremo_rcc.o
+ .text.rcc_set_lptimer0_clk_source
+                0x00000000       0x3c ./objects/tremo_rcc.o
+ .text.rcc_set_lptimer1_clk_source
+                0x00000000       0x40 ./objects/tremo_rcc.o
+ .text.rcc_set_lcd_clk_source
+                0x00000000       0x28 ./objects/tremo_rcc.o
+ .text.rcc_set_lpuart_clk_source
+                0x00000000       0x28 ./objects/tremo_rcc.o
+ .text.rcc_set_rtc_clk_source
+                0x00000000       0x28 ./objects/tremo_rcc.o
+ .text.rcc_set_iwdg_clk_source
+                0x00000000       0x28 ./objects/tremo_rcc.o
+ .text.rcc_set_adc_clk_source
+                0x00000000       0x28 ./objects/tremo_rcc.o
+ .text.rcc_set_qspi_clk_source
+                0x00000000       0x28 ./objects/tremo_rcc.o
+ .text.rcc_set_i2s_clk_source
+                0x00000000       0x28 ./objects/tremo_rcc.o
+ .text.rcc_get_sys_clk_source
+                0x00000000        0xc ./objects/tremo_rcc.o
+ .text.rcc_get_systick_source
+                0x00000000       0x1c ./objects/tremo_rcc.o
+ .text.rcc_get_mco_clk_source
+                0x00000000        0xc ./objects/tremo_rcc.o
+ .text.rcc_get_lptimer0_clk_source
+                0x00000000       0x14 ./objects/tremo_rcc.o
+ .text.rcc_get_lptimer1_clk_source
+                0x00000000       0x16 ./objects/tremo_rcc.o
+ .text.rcc_get_lcd_clk_source
+                0x00000000        0xc ./objects/tremo_rcc.o
+ .text.rcc_get_lpuart_clk_source
+                0x00000000        0xc ./objects/tremo_rcc.o
+ .text.rcc_get_iwdg_clk_source
+                0x00000000        0xc ./objects/tremo_rcc.o
+ .text.rcc_get_adc_clk_source
+                0x00000000        0xc ./objects/tremo_rcc.o
+ .text.rcc_get_qspi_clk_source
+                0x00000000        0xc ./objects/tremo_rcc.o
+ .text.rcc_get_i2s_clk_source
+                0x00000000        0xc ./objects/tremo_rcc.o
+ .text.rcc_set_hclk_div
+                0x00000000       0x10 ./objects/tremo_rcc.o
+ .text.rcc_set_pclk_div
+                0x00000000       0x16 ./objects/tremo_rcc.o
+ .text.rcc_set_mco_clk_div
+                0x00000000       0x28 ./objects/tremo_rcc.o
+ .text.rcc_enable_mco_clk_output
+                0x00000000       0x16 ./objects/tremo_rcc.o
+ .text.rcc_rst_peripheral
+                0x00000000       0x4a ./objects/tremo_rcc.o
+ .text.rcc_set_reset_mask
+                0x00000000       0x10 ./objects/tremo_rcc.o
+ .text.rcc_get_reset_mask
+                0x00000000        0xc ./objects/tremo_rcc.o
+ .text.rcc_set_i2s_mclk_div
+                0x00000000       0x12 ./objects/tremo_rcc.o
+ .text.rcc_set_i2s_sclk_div
+                0x00000000       0x10 ./objects/tremo_rcc.o
+ .text          0x00000000        0x0 ./objects/tremo_rtc.o
+ .data          0x00000000        0x0 ./objects/tremo_rtc.o
+ .bss           0x00000000        0x0 ./objects/tremo_rtc.o
+ .text.rtc_deinit
+                0x00000000       0x1e ./objects/tremo_rtc.o
+ .text.rtc_calendar_cmd
+                0x00000000       0x20 ./objects/tremo_rtc.o
+ .text.rtc_alarm_cmd
+                0x00000000       0x3c ./objects/tremo_rtc.o
+ .text.rtc_config_alarm_wakeup
+                0x00000000       0x30 ./objects/tremo_rtc.o
+ .text.rtc_tamper_cmd
+                0x00000000       0x20 ./objects/tremo_rtc.o
+ .text.rtc_config_tamper_high_level
+                0x00000000       0x24 ./objects/tremo_rtc.o
+ .text.rtc_config_tamper_level_wakeup
+                0x00000000       0x24 ./objects/tremo_rtc.o
+ .text.rtc_config_tamper_wakeup
+                0x00000000       0x24 ./objects/tremo_rtc.o
+ .text.rtc_config_tamper_filter
+                0x00000000       0x28 ./objects/tremo_rtc.o
+ .text.rtc_wakeup_io_cmd
+                0x00000000       0x38 ./objects/tremo_rtc.o
+ .text.rtc_config_wakeup_io_high_level
+                0x00000000       0x3c ./objects/tremo_rtc.o
+ .text.rtc_config_wakeup_io_level_wakeup
+                0x00000000       0x3c ./objects/tremo_rtc.o
+ .text.rtc_config_wakeup_io_wakeup
+                0x00000000       0x3c ./objects/tremo_rtc.o
+ .text.rtc_config_wakeup_io_filter
+                0x00000000       0x50 ./objects/tremo_rtc.o
+ .text.rtc_set_calendar
+                0x00000000       0xc4 ./objects/tremo_rtc.o
+ .text.rtc_get_subsecond_cnt
+                0x00000000        0xc ./objects/tremo_rtc.o
+ .text.rtc_get_cyc_cnt
+                0x00000000       0x10 ./objects/tremo_rtc.o
+ .text.rtc_clear_sec_it_status
+                0x00000000       0x10 ./objects/tremo_rtc.o
+ .text.rtc_get_sec_it_status
+                0x00000000       0x10 ./objects/tremo_rtc.o
+ .text.rtc_set_alarm
+                0x00000000      0x1f4 ./objects/tremo_rtc.o
+ .text.rtc_config_ppm
+                0x00000000       0x2c ./objects/tremo_rtc.o
+ .text.rtc_invert_io_level
+                0x00000000       0x24 ./objects/tremo_rtc.o
+ .text.rtc_config_io_output
+                0x00000000       0x20 ./objects/tremo_rtc.o
+ .text.rtc_get_io_output
+                0x00000000       0x14 ./objects/tremo_rtc.o
+ .text.rtc_config_erase_ret_sram
+                0x00000000       0x24 ./objects/tremo_rtc.o
+ .text          0x00000000        0x0 ./objects/tremo_spi.o
+ .data          0x00000000        0x0 ./objects/tremo_spi.o
+ .bss           0x00000000        0x0 ./objects/tremo_spi.o
+ .text.ssp_init_struct
+                0x00000000       0x1c ./objects/tremo_spi.o
+ .text.ssp_config_interrupt
+                0x00000000       0x10 ./objects/tremo_spi.o
+ .text.ssp_cmd  0x00000000       0x12 ./objects/tremo_spi.o
+ .text.ssp_init
+                0x00000000       0xe0 ./objects/tremo_spi.o
+ .text.ssp_deinit
+                0x00000000       0x6c ./objects/tremo_spi.o
+ .text.ssp_send_data
+                0x00000000       0x2c ./objects/tremo_spi.o
+ .text.ssp_receive_data
+                0x00000000       0x2c ./objects/tremo_spi.o
+ .debug_info    0x00000000      0x8b3 ./objects/tremo_spi.o
+ .debug_abbrev  0x00000000      0x29f ./objects/tremo_spi.o
+ .debug_loc     0x00000000      0x4a8 ./objects/tremo_spi.o
+ .debug_aranges
+                0x00000000       0x50 ./objects/tremo_spi.o
+ .debug_ranges  0x00000000       0x70 ./objects/tremo_spi.o
+ .debug_line    0x00000000      0x47c ./objects/tremo_spi.o
+ .debug_str     0x00000000      0x7c7 ./objects/tremo_spi.o
+ .comment       0x00000000       0x4a ./objects/tremo_spi.o
+ .debug_frame   0x00000000       0xb4 ./objects/tremo_spi.o
+ .ARM.attributes
+                0x00000000       0x32 ./objects/tremo_spi.o
+ .text          0x00000000        0x0 ./objects/tremo_system.o
+ .data          0x00000000        0x0 ./objects/tremo_system.o
+ .bss           0x00000000        0x0 ./objects/tremo_system.o
+ .text          0x00000000        0x0 ./objects/tremo_timer.o
+ .data          0x00000000        0x0 ./objects/tremo_timer.o
+ .bss           0x00000000        0x0 ./objects/tremo_timer.o
+ .text.timer_deinit
+                0x00000000       0x8c ./objects/tremo_timer.o
+ .text.timer_disable_update
+                0x00000000       0x12 ./objects/tremo_timer.o
+ .text.timer_config_update_source
+                0x00000000       0x12 ./objects/tremo_timer.o
+ .text.timer_config_master_mode
+                0x00000000       0x10 ./objects/tremo_timer.o
+ .text.timer_enable_xor
+                0x00000000       0x12 ./objects/tremo_timer.o
+ .text.timer_enable_ccds_upd
+                0x00000000       0x12 ./objects/tremo_timer.o
+ .text.timer_config_etr
+                0x00000000       0x16 ./objects/tremo_timer.o
+ .text.timer_config_external_clock2
+                0x00000000       0x12 ./objects/tremo_timer.o
+ .text.timer_config_itrx
+                0x00000000        0xc ./objects/tremo_timer.o
+ .text.timer_config_slave_mode
+                0x00000000       0x10 ./objects/tremo_timer.o
+ .text.timer_config_ti
+                0x00000000       0xa4 ./objects/tremo_timer.o
+ .text.timer_config_polarity_filter_ti
+                0x00000000       0x74 ./objects/tremo_timer.o
+ .text.timer_config_slave
+                0x00000000       0x7e ./objects/tremo_timer.o
+ .text.timer_config_channel_ic
+                0x00000000       0x72 ./objects/tremo_timer.o
+ .text.timer_config_one_pulse
+                0x00000000       0x12 ./objects/tremo_timer.o
+ .text.timer_config_ts
+                0x00000000       0x10 ./objects/tremo_timer.o
+ .text.timer_clear_ocxref
+                0x00000000       0x80 ./objects/tremo_timer.o
+ .text.timer_config_dma
+                0x00000000       0x10 ./objects/tremo_timer.o
+ .text.timer_config_interrupt
+                0x00000000       0x10 ./objects/tremo_timer.o
+ .text.timer_get_status
+                0x00000000       0x10 ./objects/tremo_timer.o
+ .text.timer_clear_status
+                0x00000000        0xa ./objects/tremo_timer.o
+ .text.timer_generate_event
+                0x00000000       0x10 ./objects/tremo_timer.o
+ .text.timer_set_dma_rw_len
+                0x00000000       0x10 ./objects/tremo_timer.o
+ .text.timer_set_dma_base_addr
+                0x00000000       0x10 ./objects/tremo_timer.o
+ .text.timer_config_or_tim0_ti0
+                0x00000000       0x10 ./objects/tremo_timer.o
+ .text.timer_config_or_tim0_ti3
+                0x00000000       0x10 ./objects/tremo_timer.o
+ .text.timer_config_or_tim0_etr
+                0x00000000       0x10 ./objects/tremo_timer.o
+ .text.timer_config_or_tim1_ti2
+                0x00000000       0x10 ./objects/tremo_timer.o
+ .text.timer_config_or_tim2_ti0
+                0x00000000       0x10 ./objects/tremo_timer.o
+ .text.timer_config_or_tim2_ti1
+                0x00000000       0x10 ./objects/tremo_timer.o
+ .text.timer_config_or_tim2_etr
+                0x00000000       0x10 ./objects/tremo_timer.o
+ .text.timer_config_or_tim3_ti0
+                0x00000000       0x10 ./objects/tremo_timer.o
+ .text.timer_config_or_tim3_etr
+                0x00000000       0x10 ./objects/tremo_timer.o
+ .text          0x00000000        0x0 ./objects/tremo_uart.o
+ .data          0x00000000        0x0 ./objects/tremo_uart.o
+ .bss           0x00000000        0x0 ./objects/tremo_uart.o
+ .text.uart_send_data
+                0x00000000        0xa ./objects/tremo_uart.o
+ .text.uart_receive_data
+                0x00000000        0xc ./objects/tremo_uart.o
+ .text.uart_deinit
+                0x00000000       0x48 ./objects/tremo_uart.o
+ .text.uart_set_rx_fifo_threshold
+                0x00000000        0xc ./objects/tremo_uart.o
+ .text.uart_set_tx_fifo_threshold
+                0x00000000        0xc ./objects/tremo_uart.o
+ .text.uart_irda_config
+                0x00000000       0x8c ./objects/tremo_uart.o
+ .text.uart_irda_cmd
+                0x00000000       0x12 ./objects/tremo_uart.o
+ .text.uart_dma_config
+                0x00000000       0x10 ./objects/tremo_uart.o
+ .text.uart_dma_onerror_config
+                0x00000000       0x12 ./objects/tremo_uart.o
+ .text          0x00000000        0x0 ./objects/tremo_wdg.o
+ .data          0x00000000        0x0 ./objects/tremo_wdg.o
+ .bss           0x00000000        0x0 ./objects/tremo_wdg.o
+ .text.wdg_deinit
+                0x00000000       0x1e ./objects/tremo_wdg.o
+ .text.wdg_stop
+                0x00000000       0x34 ./objects/tremo_wdg.o
+ .text          0x00000000        0x0 ./objects/main.o
+ .data          0x00000000        0x0 ./objects/main.o
+ .text          0x00000000        0x0 ./objects/tremo_it.o
+ .data          0x00000000        0x0 ./objects/tremo_it.o
+ .bss           0x00000000        0x0 ./objects/tremo_it.o
+ .text          0x00000000        0x0 ./objects/lora_demo.o
+ .data          0x00000000        0x0 ./objects/lora_demo.o
+ .text.Wait2RXEnd
+                0x00000000       0x2c ./objects/lora_demo.o
+ .text          0x00000000        0x0 ./objects/app.o
+ .text          0x00000000        0x0 ./objects/stm8_armcode.o
+ .data          0x00000000        0x0 ./objects/stm8_armcode.o
+ .bss           0x00000000        0x0 ./objects/stm8_armcode.o
+ .text          0x00000000        0x0 ./objects/rtc-board.o
+ .data          0x00000000        0x0 ./objects/rtc-board.o
+ .text.RtcInit  0x00000000       0x30 ./objects/rtc-board.o
+ .text.RtcStopTimeout
+                0x00000000       0x14 ./objects/rtc-board.o
+ .text.RtcGetAdjustedTimeoutValue
+                0x00000000       0x2c ./objects/rtc-board.o
+ .text.BlockLowPowerDuringTask
+                0x00000000        0x2 ./objects/rtc-board.o
+ .text.RtcEnterLowPowerStopMode
+                0x00000000       0x20 ./objects/rtc-board.o
+ .text.RtcRecoverMcuStatus
+                0x00000000        0x2 ./objects/rtc-board.o
+ .text.RtcProcess
+                0x00000000        0x2 ./objects/rtc-board.o
+ .text          0x00000000        0x0 ./objects/sx1262-board.o
+ .data          0x00000000        0x0 ./objects/sx1262-board.o
+ .text.SX126xCheckRfFrequency
+                0x00000000        0x4 ./objects/sx1262-board.o
+ .text.SX126xGetPaOpt
+                0x00000000        0xc ./objects/sx1262-board.o
+ .text.SX126xSetPaOpt
+                0x00000000       0x10 ./objects/sx1262-board.o
+ .text          0x00000000        0x0 ./objects/delay.o
+ .data          0x00000000        0x0 ./objects/delay.o
+ .bss           0x00000000        0x0 ./objects/delay.o
+ .text.Delay    0x00000000       0x1c ./objects/delay.o
+ .text          0x00000000        0x0 ./objects/timer.o
+ .data          0x00000000        0x0 ./objects/timer.o
+ .text.TimerInsertNewHeadTimer
+                0x00000000       0x1c ./objects/timer.o
+ .text.TimerSetSysTime
+                0x00000000       0x30 ./objects/timer.o
+ .text.TimerInit
+                0x00000000       0x10 ./objects/timer.o
+ .text.TimerSetContext
+                0x00000000        0x4 ./objects/timer.o
+ .text.TimerStart
+                0x00000000       0x78 ./objects/timer.o
+ .text.TimerIsStarted
+                0x00000000        0x4 ./objects/timer.o
+ .text.TimerStop
+                0x00000000       0x5c ./objects/timer.o
+ .text.TimerReset
+                0x00000000       0x12 ./objects/timer.o
+ .text.TimerSetValue
+                0x00000000       0x10 ./objects/timer.o
+ .text.TimerGetCurrentTime
+                0x00000000       0x18 ./objects/timer.o
+ .text.TimerGetSysTime
+                0x00000000       0x2c ./objects/timer.o
+ .text.TimerGetElapsedTime
+                0x00000000       0x12 ./objects/timer.o
+ .text.TimerTempCompensation
+                0x00000000        0x2 ./objects/timer.o
+ .text.TimerProcess
+                0x00000000        0x2 ./objects/timer.o
+ .text.TimerLowPowerHandler
+                0x00000000       0x20 ./objects/timer.o
+ .text          0x00000000        0x0 ./objects/sx126x.o
+ .data          0x00000000        0x0 ./objects/sx126x.o
+ .text.SX126xSetFs
+                0x00000000       0x18 ./objects/sx126x.o
+ .text.SX126xGetRandom
+                0x00000000       0x2e ./objects/sx126x.o
+ .text.SX126xSetTxInfinitePreamble
+                0x00000000        0xa ./objects/sx126x.o
+ .text.SX126xCalibrate
+                0x00000000       0x16 ./objects/sx126x.o
+ .text.SX126xSetRxTxFallbackMode
+                0x00000000       0x18 ./objects/sx126x.o
+ .text.SX126xSetDio3AsTcxoCtrl
+                0x00000000       0x2c ./objects/sx126x.o
+ .text.SX126xGetStatus
+                0x00000000       0x1e ./objects/sx126x.o
+ .text.SX126xGetDeviceErrors
+                0x00000000       0x16 ./objects/sx126x.o
+ .text.SX126xClearDeviceErrors
+                0x00000000       0x18 ./objects/sx126x.o
+ .text          0x00000000        0x0 ./objects/radio.o
+ .text.RadioTx  0x00000000        0x6 ./objects/radio.o
+ .text.RadioWriteFifo
+                0x00000000        0xa ./objects/radio.o
+ .text.RadioReadFifo
+                0x00000000        0xa ./objects/radio.o
+ .text.RadioOnTxTimeoutIrq
+                0x00000000       0x14 ./objects/radio.o
+ .text.RadioOnRxTimeoutIrq
+                0x00000000       0x14 ./objects/radio.o
+ .text.RadioOnCadTimeoutIrq
+                0x00000000       0x20 ./objects/radio.o
+ .text          0x00000000        0x0 ./objects/utilities.o
+ .bss           0x00000000        0x0 ./objects/utilities.o
+ .text.srand1   0x00000000        0xc ./objects/utilities.o
+ .text.randr    0x00000000       0x1a ./objects/utilities.o
+ .text.memcpy1  0x00000000       0x14 ./objects/utilities.o
+ .text.memcpyr  0x00000000       0x14 ./objects/utilities.o
+ .text.memset1  0x00000000        0x4 ./objects/utilities.o
+ .text.Nibble2HexChar
+                0x00000000       0x16 ./objects/utilities.o
+ .text          0x00000000        0x0 ./objects/modbus_core.o
+ .data          0x00000000        0x0 ./objects/modbus_core.o
+ .text          0x00000000        0x0 ./objects/modbus_crc.o
+ .data          0x00000000        0x0 ./objects/modbus_crc.o
+ .bss           0x00000000        0x0 ./objects/modbus_crc.o
+ .text          0x00000000        0x0 ./objects/modbus_hook.o
+ .data          0x00000000        0x0 ./objects/modbus_hook.o
+ .bss           0x00000000        0x0 ./objects/modbus_hook.o
+ .text          0x00000000        0x0 ./objects/modbus_user.o
+ .text.MBS_MappingCoilInit
+                0x00000000        0x6 ./objects/modbus_user.o
+ .text.MBS_MappingHoldRegInit
+                0x00000000        0x6 ./objects/modbus_user.o
+ .text.MBS_Data_Process
+                0x00000000        0x2 ./objects/modbus_user.o
+ .text.MBS_DataSyn
+                0x00000000        0x2 ./objects/modbus_user.o
+ .text          0x00000000        0x0 ./objects/lora_at_cmd.o
+ .data          0x00000000       0x90 ./objects/lora_at_cmd.o
+ .text.NVIC_SystemReset
+                0x00000000       0x20 ./objects/lora_at_cmd.o
+ .rodata.str1.1
+                0x00000000      0x3b0 ./objects/lora_at_cmd.o
+ .text.handleSleep
+                0x00000000        0xc ./objects/lora_at_cmd.o
+ .text.handleTxpower
+                0x00000000       0x1c ./objects/lora_at_cmd.o
+ .text.handlePanid
+                0x00000000       0x38 ./objects/lora_at_cmd.o
+ .text.handleNetopen
+                0x00000000       0x24 ./objects/lora_at_cmd.o
+ .text.handleNetclose
+                0x00000000       0x24 ./objects/lora_at_cmd.o
+ .text.handleConnect
+                0x00000000        0xc ./objects/lora_at_cmd.o
+ .text.handleMaster
+                0x00000000       0x54 ./objects/lora_at_cmd.o
+ .text.handleSlaver
+                0x00000000       0x54 ./objects/lora_at_cmd.o
+ .text.handleRst
+                0x00000000       0x1c ./objects/lora_at_cmd.o
+ .text.handleLeave
+                0x00000000       0x30 ./objects/lora_at_cmd.o
+ .text.handleChannel
+                0x00000000       0x38 ./objects/lora_at_cmd.o
+ .text.handleBw
+                0x00000000       0x2c ./objects/lora_at_cmd.o
+ .text.handleSf
+                0x00000000       0x30 ./objects/lora_at_cmd.o
+ .text.handleCR
+                0x00000000       0x2c ./objects/lora_at_cmd.o
+ .text.handleSaddr
+                0x00000000       0x40 ./objects/lora_at_cmd.o
+ .text.handleMinrssi
+                0x00000000       0x2c ./objects/lora_at_cmd.o
+ .text.handlePrint
+                0x00000000       0x4c ./objects/lora_at_cmd.o
+ .text.handleDelet
+                0x00000000       0x5c ./objects/lora_at_cmd.o
+ .text.parseATCommand
+                0x00000000       0x58 ./objects/lora_at_cmd.o
+ .text.handleSend
+                0x00000000       0x78 ./objects/lora_at_cmd.o
+ .text.executeCommand
+                0x00000000       0x30 ./objects/lora_at_cmd.o
+ .text.processATCommand
+                0x00000000       0x30 ./objects/lora_at_cmd.o
+ .text          0x00000000        0x0 ./objects/lora_cmd_m.o
+ .data          0x00000000        0x0 ./objects/lora_cmd_m.o
+ .bss           0x00000000        0x0 ./objects/lora_cmd_m.o
+ .text.PCmd_Master_Request_Leave
+                0x00000000       0x48 ./objects/lora_cmd_m.o
+ .text.PCmd_MBS_Cmd_Request
+                0x00000000        0x2 ./objects/lora_cmd_m.o
+ .text          0x00000000        0x0 ./objects/lora_cmd_s.o
+ .data          0x00000000        0x0 ./objects/lora_cmd_s.o
+ .bss           0x00000000        0x0 ./objects/lora_cmd_s.o
+ .text.PCmd_Slaver_Request_Leave
+                0x00000000       0x4c ./objects/lora_cmd_s.o
+ .text          0x00000000        0x0 ./objects/lora_core.o
+ .text.Master_Period_1s
+                0x00000000       0x38 ./objects/lora_core.o
+ .text          0x00000000        0x0 ./objects/lora_flash.o
+ .data          0x00000000        0x0 ./objects/lora_flash.o
+ .text.Lora_AsData_Syn
+                0x00000000       0x74 ./objects/lora_flash.o
+ .text.jumpToApp
+                0x00000000        0xa ./objects/lora_flash.o
+ .text.boot_to_app
+                0x00000000       0x22 ./objects/lora_flash.o
+ .text          0x00000000        0x0 ./objects/lora_function.o
+ .data          0x00000000        0x0 ./objects/lora_function.o
+ .text.Get_Register_Num
+                0x00000000       0x20 ./objects/lora_function.o
+ .text.Get_Register_IDLE_ID
+                0x00000000       0x1c ./objects/lora_function.o
+ .text.Compare_Register_SAddr
+                0x00000000       0x28 ./objects/lora_function.o
+ .text.Compare_Register_MAC
+                0x00000000       0x3c ./objects/lora_function.o
+ .text.Set_Sleeptime
+                0x00000000       0x14 ./objects/lora_function.o
+ .text          0x00000000        0x0 ./objects/lora_user.o
+ .text.Lora_Sleep
+                0x00000000       0xa8 ./objects/lora_user.o
+ .text          0x00000000        0x0 ./objects/ymodem.o
+ .data          0x00000000        0x0 ./objects/ymodem.o
+ .text.UpdateCRC16
+                0x00000000       0x20 ./objects/ymodem.o
+ .text.ymodem_init
+                0x00000000       0x18 ./objects/ymodem.o
+ .text.ymodem_packet_analysis
+                0x00000000      0x1e0 ./objects/ymodem.o
+ .text          0x00000000        0x0 ./objects/sendpacket.o
+ .data          0x00000000        0x0 ./objects/sendpacket.o
+ .bss           0x00000000       0x48 ./objects/sendpacket.o
+ .text.UpdateCRC16
+                0x00000000       0x20 ./objects/sendpacket.o
+ .text.YmodemCRC
+                0x00000000       0x28 ./objects/sendpacket.o
+ .text.Profile_SP_init
+                0x00000000       0x80 ./objects/sendpacket.o
+ .text.Profile_SP_Period
+                0x00000000      0x1b0 ./objects/sendpacket.o
+ .debug_info    0x00000000      0x54b ./objects/sendpacket.o
+ .debug_abbrev  0x00000000      0x1b4 ./objects/sendpacket.o
+ .debug_loc     0x00000000      0x5db ./objects/sendpacket.o
+ .debug_aranges
+                0x00000000       0x38 ./objects/sendpacket.o
+ .debug_ranges  0x00000000       0x28 ./objects/sendpacket.o
+ .debug_line    0x00000000      0x4ed ./objects/sendpacket.o
+ .debug_str     0x00000000      0x399 ./objects/sendpacket.o
+ .comment       0x00000000       0x4a ./objects/sendpacket.o
+ .debug_frame   0x00000000       0x88 ./objects/sendpacket.o
+ .ARM.attributes
+                0x00000000       0x32 ./objects/sendpacket.o
+ .text          0x00000000        0x0 ./objects/mb_hook.o
+ .data          0x00000000        0x0 ./objects/mb_hook.o
+ .bss           0x00000000        0x0 ./objects/mb_hook.o
+ .text          0x00000000        0x0 ./objects/mb_host.o
+ .data          0x00000000        0x0 ./objects/mb_host.o
+ .text.MBS_05H  0x00000000       0x70 ./objects/mb_host.o
+ .text.MBS_06H  0x00000000       0x64 ./objects/mb_host.o
+ .text.MBS_0FH  0x00000000        0xc ./objects/mb_host.o
+ .text.MBS_10H  0x00000000       0x98 ./objects/mb_host.o
+ .text          0x00000000        0x0 ./objects/mb_port.o
+ .data          0x00000000        0x0 ./objects/mb_port.o
+ .text          0x00000000        0x0 ./objects/ringbuff.o
+ .data          0x00000000        0x0 ./objects/ringbuff.o
+ .text.ringbuff_init
+                0x00000000       0x1a ./objects/ringbuff.o
+ .text.cb_is_empty
+                0x00000000        0xc ./objects/ringbuff.o
+ .text.cb_is_full
+                0x00000000        0xe ./objects/ringbuff.o
+ .text.cb_size  0x00000000        0x6 ./objects/ringbuff.o
+ .text.ringbuff_write
+                0x00000000       0x40 ./objects/ringbuff.o
+ .text.ringbuff_read
+                0x00000000       0x3e ./objects/ringbuff.o
+ .text          0x00000000        0x0 ./objects/dac_ctrl.o
+ .data          0x00000000        0x0 ./objects/dac_ctrl.o
+ .bss           0x00000000        0x0 ./objects/dac_ctrl.o
+ .text.set_dac_output
+                0x00000000       0x34 ./objects/dac_ctrl.o
+ .debug_info    0x00000000      0x172 ./objects/dac_ctrl.o
+ .debug_abbrev  0x00000000       0xd3 ./objects/dac_ctrl.o
+ .debug_loc     0x00000000       0x38 ./objects/dac_ctrl.o
+ .debug_aranges
+                0x00000000       0x20 ./objects/dac_ctrl.o
+ .debug_ranges  0x00000000       0x10 ./objects/dac_ctrl.o
+ .debug_line    0x00000000       0xb9 ./objects/dac_ctrl.o
+ .debug_str     0x00000000      0x28d ./objects/dac_ctrl.o
+ .comment       0x00000000       0x4a ./objects/dac_ctrl.o
+ .debug_frame   0x00000000       0x30 ./objects/dac_ctrl.o
+ .ARM.attributes
+                0x00000000       0x32 ./objects/dac_ctrl.o
+ .text          0x00000000        0x0 ./objects/key_ctrl.o
+ .data          0x00000000        0x0 ./objects/key_ctrl.o
+ .bss           0x00000000        0x0 ./objects/key_ctrl.o
+ .debug_info    0x00000000       0x72 ./objects/key_ctrl.o
+ .debug_abbrev  0x00000000       0x26 ./objects/key_ctrl.o
+ .debug_aranges
+                0x00000000       0x18 ./objects/key_ctrl.o
+ .debug_line    0x00000000       0x1d ./objects/key_ctrl.o
+ .debug_str     0x00000000      0x1f9 ./objects/key_ctrl.o
+ .comment       0x00000000       0x4a ./objects/key_ctrl.o
+ .ARM.attributes
+                0x00000000       0x32 ./objects/key_ctrl.o
+ .text          0x00000000        0x0 ./objects/led_595_ctrl.o
+ .data          0x00000000        0x0 ./objects/led_595_ctrl.o
+ .bss           0x00000000        0x0 ./objects/led_595_ctrl.o
+ .debug_info    0x00000000       0x72 ./objects/led_595_ctrl.o
+ .debug_abbrev  0x00000000       0x26 ./objects/led_595_ctrl.o
+ .debug_aranges
+                0x00000000       0x18 ./objects/led_595_ctrl.o
+ .debug_line    0x00000000       0x1d ./objects/led_595_ctrl.o
+ .debug_str     0x00000000      0x1fd ./objects/led_595_ctrl.o
+ .comment       0x00000000       0x4a ./objects/led_595_ctrl.o
+ .ARM.attributes
+                0x00000000       0x32 ./objects/led_595_ctrl.o
+ .text          0x00000000        0x0 ./objects/mbs_cmd_ctrl.o
+ .data          0x00000000        0x0 ./objects/mbs_cmd_ctrl.o
+ .text          0x00000000        0x0 ./objects/relay_ctrl.o
+ .data          0x00000000        0x0 ./objects/relay_ctrl.o
+ .text.MBS_DATA_Print
+                0x00000000        0x2 ./objects/relay_ctrl.o
+ .text          0x00000000        0x0 ./objects/rgb_ctrl.o
+ .bss           0x00000000        0x0 ./objects/rgb_ctrl.o
+ .text          0x00000000        0x0 ./objects/scr_ctrl.o
+ .data          0x00000000        0x0 ./objects/scr_ctrl.o
+ .bss           0x00000000        0x0 ./objects/scr_ctrl.o
+ .debug_info    0x00000000       0x72 ./objects/scr_ctrl.o
+ .debug_abbrev  0x00000000       0x26 ./objects/scr_ctrl.o
+ .debug_aranges
+                0x00000000       0x18 ./objects/scr_ctrl.o
+ .debug_line    0x00000000       0x1d ./objects/scr_ctrl.o
+ .debug_str     0x00000000      0x1f9 ./objects/scr_ctrl.o
+ .comment       0x00000000       0x4a ./objects/scr_ctrl.o
+ .ARM.attributes
+                0x00000000       0x32 ./objects/scr_ctrl.o
+ .text          0x00000000      0x254 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldf3.o)
+ .data          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldf3.o)
+ .bss           0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldf3.o)
+ .debug_frame   0x00000000       0x30 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldf3.o)
+ .ARM.attributes
+                0x00000000       0x1e e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldf3.o)
+ .data          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpdf2.o)
+ .text          0x00000000       0x50 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixdfsi.o)
+ .data          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixdfsi.o)
+ .bss           0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixdfsi.o)
+ .debug_frame   0x00000000       0x24 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x00000000       0x1e e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixdfsi.o)
+ .data          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunsdfsi.o)
+ .bss           0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunsdfsi.o)
+ .text          0x00000000       0x30 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x00000000       0x2c e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000000       0x1e e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_fixunsdfdi.o)
+ .bss           0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_fixunsdfdi.o)
+ .text          0x00000000      0x2d0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .ARM.exidx     0x00000000        0x8 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x00000000       0x34 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000000       0x2e e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .text          0x00000000        0x4 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+ .data          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000000       0x1e e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atoi.o)
+ .data          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atoi.o)
+ .bss           0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atoi.o)
+ .text.atoi     0x00000000        0x8 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atoi.o)
+ .text._atoi_r  0x00000000        0x8 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atoi.o)
+ .debug_frame   0x00000000       0x30 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atoi.o)
+ .ARM.attributes
+                0x00000000       0x2e e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atoi.o)
+ .text          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o)
+ .data          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2e e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o)
+ .text          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-init.o)
+ .bss           0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memset.o)
+ .text          0x00000000       0xdc e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strlen.o)
+ .data          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000000       0x1c e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strlen.o)
+ .text          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strncmp.o)
+ .data          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strncmp.o)
+ .bss           0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strncmp.o)
+ .text.strncmp  0x00000000       0x80 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strncmp.o)
+ .debug_frame   0x00000000       0x38 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strncmp.o)
+ .ARM.attributes
+                0x00000000       0x2e e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strncmp.o)
+ .text          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strncpy.o)
+ .data          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strncpy.o)
+ .bss           0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strncpy.o)
+ .text.strncpy  0x00000000       0x64 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strncpy.o)
+ .debug_frame   0x00000000       0x2c e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strncpy.o)
+ .ARM.attributes
+                0x00000000       0x2e e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strncpy.o)
+ .text          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strtol.o)
+ .data          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strtol.o)
+ .bss           0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strtol.o)
+ .text._strtol_l.part.0
+                0x00000000      0x120 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strtol.o)
+ .text._strtol_r
+                0x00000000       0x1c e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strtol.o)
+ .text.strtol_l
+                0x00000000       0x2c e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strtol.o)
+ .text.strtol   0x00000000       0x2c e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strtol.o)
+ .debug_frame   0x00000000       0x80 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strtol.o)
+ .ARM.attributes
+                0x00000000       0x2e e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strtol.o)
+ .text          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xc4 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-ctype_.o)
+ .data          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-ctype_.o)
+ .bss           0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-ctype_.o)
+ .rodata._ctype_
+                0x00000000      0x101 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-ctype_.o)
+ .ARM.attributes
+                0x00000000       0x2e e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-ctype_.o)
+ .text          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-errno.o)
+ .data          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-errno.o)
+ .text.__errno  0x00000000        0xc e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-errno.o)
+ .debug_frame   0x00000000       0x20 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000000       0x2e e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-errno.o)
+ .text          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-fini.o)
+ .data          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-fini.o)
+ .text          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+ .data          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+ .bss           0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x4 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x4 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x4 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x4 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x4 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x4 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x00000000        0x1 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x00000000        0x1 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x00000000        0x1 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+ .bss.__lock___malloc_recursive_mutex
+                0x00000000        0x1 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+ .bss.__lock___sinit_recursive_mutex
+                0x00000000        0x1 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x00000000        0x1 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+ .text          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+ .data          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+ .bss           0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+ .rodata        0x00000000       0x24 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+ .eh_frame      0x00000000        0x4 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+ .ARM.attributes
+                0x00000000       0x2e e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+ .text          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
+ .data          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
+ .bss           0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
+ .text          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a(lib_a-s_ceil.o)
+ .data          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a(lib_a-s_ceil.o)
+ .bss           0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a(lib_a-s_ceil.o)
+ .debug_frame   0x00000000       0x30 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a(lib_a-s_ceil.o)
+ .ARM.attributes
+                0x00000000       0x2e e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a(lib_a-s_ceil.o)
+ .text          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a(lib_a-s_floor.o)
+ .data          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a(lib_a-s_floor.o)
+ .bss           0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a(lib_a-s_floor.o)
+ .debug_frame   0x00000000       0x30 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a(lib_a-s_floor.o)
+ .ARM.attributes
+                0x00000000       0x2e e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a(lib_a-s_floor.o)
+ .text          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a(lib_a-s_rint.o)
+ .data          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a(lib_a-s_rint.o)
+ .bss           0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a(lib_a-s_rint.o)
+ .debug_frame   0x00000000       0x44 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a(lib_a-s_rint.o)
+ .ARM.attributes
+                0x00000000       0x2e e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a(lib_a-s_rint.o)
+ .text          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a(lib_a-s_round.o)
+ .data          0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a(lib_a-s_round.o)
+ .bss           0x00000000        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a(lib_a-s_round.o)
+ .debug_frame   0x00000000       0x2c e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a(lib_a-s_round.o)
+ .ARM.attributes
+                0x00000000       0x2e e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a(lib_a-s_round.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08010000         0x00020000         xr
+RAM              0x20000000         0x00004000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
+LOAD e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+LOAD e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+LOAD ./objects/startup_cm4.o
+LOAD ./objects/system_cm4.o
+LOAD ./objects/printf-stdarg.o
+LOAD ./objects/tremo_adc.o
+LOAD ./objects/tremo_bstimer.o
+LOAD ./objects/tremo_crc.o
+LOAD ./objects/tremo_dac.o
+LOAD ./objects/tremo_delay.o
+LOAD ./objects/tremo_dma.o
+LOAD ./objects/tremo_flash.o
+LOAD ./objects/tremo_gpio.o
+LOAD ./objects/tremo_i2c.o
+LOAD ./objects/tremo_i2s.o
+LOAD ./objects/tremo_iwdg.o
+LOAD ./objects/tremo_lcd.o
+LOAD ./objects/tremo_lptimer.o
+LOAD ./objects/tremo_lpuart.o
+LOAD ./objects/tremo_pwr.o
+LOAD ./objects/tremo_rcc.o
+LOAD ./objects/tremo_rtc.o
+LOAD ./objects/tremo_spi.o
+LOAD ./objects/tremo_system.o
+LOAD ./objects/tremo_timer.o
+LOAD ./objects/tremo_uart.o
+LOAD ./objects/tremo_wdg.o
+LOAD ./objects/main.o
+LOAD ./objects/tremo_it.o
+LOAD ./objects/lora_demo.o
+LOAD ./objects/app.o
+LOAD ./objects/stm8_armcode.o
+LOAD ./objects/rtc-board.o
+LOAD ./objects/sx1262-board.o
+LOAD ./objects/delay.o
+LOAD ./objects/timer.o
+LOAD ./objects/sx126x.o
+LOAD ./objects/radio.o
+LOAD ./objects/utilities.o
+LOAD ./objects/modbus_core.o
+LOAD ./objects/modbus_crc.o
+LOAD ./objects/modbus_hook.o
+LOAD ./objects/modbus_user.o
+LOAD ./objects/lora_at_cmd.o
+LOAD ./objects/lora_cmd_m.o
+LOAD ./objects/lora_cmd_s.o
+LOAD ./objects/lora_core.o
+LOAD ./objects/lora_flash.o
+LOAD ./objects/lora_function.o
+LOAD ./objects/lora_user.o
+LOAD ./objects/ymodem.o
+LOAD ./objects/sendpacket.o
+LOAD ./objects/mb_hook.o
+LOAD ./objects/mb_host.o
+LOAD ./objects/mb_port.o
+LOAD ./objects/ringbuff.o
+LOAD ./objects/dac_ctrl.o
+LOAD ./objects/key_ctrl.o
+LOAD ./objects/led_595_ctrl.o
+LOAD ./objects/mbs_cmd_ctrl.o
+LOAD ./objects/relay_ctrl.o
+LOAD ./objects/rgb_ctrl.o
+LOAD ./objects/scr_ctrl.o
+START GROUP
+LOAD e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a
+LOAD e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a
+END GROUP
+LOAD e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+LOAD e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
+                0x20004000                _estack = 0x20004000
+                0x00000000                _HEAP_SIZE = 0x0
+                0x00001000                _STACK_SIZE = 0x1000
+
+.isr_vector     0x08010000       0xd4
+                0x08010000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08010000       0xd4 ./objects/startup_cm4.o
+                0x08010000                g_pfnVectors
+                0x080100d4                . = ALIGN (0x4)
+
+.text           0x080100d8     0x7304
+                0x080100d8                . = ALIGN (0x4)
+ *(.text)
+ .text          0x080100d8       0x40 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .text          0x08010118      0x378 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubdf3.o)
+                0x08010118                __aeabi_drsub
+                0x08010120                __aeabi_dsub
+                0x08010120                __subdf3
+                0x08010124                __aeabi_dadd
+                0x08010124                __adddf3
+                0x0801039c                __floatunsidf
+                0x0801039c                __aeabi_ui2d
+                0x080103bc                __floatsidf
+                0x080103bc                __aeabi_i2d
+                0x080103e0                __aeabi_f2d
+                0x080103e0                __extendsfdf2
+                0x08010424                __floatundidf
+                0x08010424                __aeabi_ul2d
+                0x08010434                __floatdidf
+                0x08010434                __aeabi_l2d
+ .text          0x08010490      0x424 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivdf3.o)
+                0x08010490                __aeabi_dmul
+                0x08010490                __muldf3
+                0x080106e4                __divdf3
+                0x080106e4                __aeabi_ddiv
+ .text          0x080108b4      0x110 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpdf2.o)
+                0x080108b4                __gtdf2
+                0x080108b4                __gedf2
+                0x080108bc                __ltdf2
+                0x080108bc                __ledf2
+                0x080108c4                __nedf2
+                0x080108c4                __eqdf2
+                0x080108c4                __cmpdf2
+                0x08010940                __aeabi_cdrcmple
+                0x08010950                __aeabi_cdcmpeq
+                0x08010950                __aeabi_cdcmple
+                0x08010960                __aeabi_dcmpeq
+                0x08010974                __aeabi_dcmplt
+                0x08010988                __aeabi_dcmple
+                0x0801099c                __aeabi_dcmpge
+                0x080109b0                __aeabi_dcmpgt
+ .text          0x080109c4       0x40 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunsdfsi.o)
+                0x080109c4                __aeabi_d2uiz
+                0x080109c4                __fixunsdfsi
+ .text          0x08010a04       0x3c e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_fixunsdfdi.o)
+                0x08010a04                __fixunsdfdi
+                0x08010a04                __aeabi_d2ulz
+ .text          0x08010a40      0x134 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memcpy.o)
+                0x08010a40                memcpy
+ *(.text*)
+ .text.Reset_Handler
+                0x08010b74       0x48 ./objects/startup_cm4.o
+                0x08010b74                Reset_Handler
+ .text.Default_Handler
+                0x08010bbc        0x2 ./objects/startup_cm4.o
+                0x08010bbc                SCC_IRQHandler
+                0x08010bbc                TIMER2_IRQHandler
+                0x08010bbc                EFC_IRQHandler
+                0x08010bbc                I2C0_IRQHandler
+                0x08010bbc                SAC_IRQHandler
+                0x08010bbc                I2C1_IRQHandler
+                0x08010bbc                UART1_IRQHandler
+                0x08010bbc                TIMER3_IRQHandler
+                0x08010bbc                SEC_IRQHandler
+                0x08010bbc                WDG_IRQHandler
+                0x08010bbc                LPTIMER1_IRQHandler
+                0x08010bbc                LPTIMER0_IRQHandler
+                0x08010bbc                SSP0_IRQHandler
+                0x08010bbc                I2S_IRQHandler
+                0x08010bbc                I2C2_IRQHandler
+                0x08010bbc                TIMER0_IRQHandler
+                0x08010bbc                LCD_IRQHandler
+                0x08010bbc                LPUART_IRQHandler
+                0x08010bbc                TIMER1_IRQHandler
+                0x08010bbc                UART2_IRQHandler
+                0x08010bbc                Default_Handler
+                0x08010bbc                ADC_IRQHandler
+                0x08010bbc                SSP1_IRQHandler
+                0x08010bbc                DMA0_IRQHandler
+                0x08010bbc                IWDG_IRQHandler
+                0x08010bbc                SSP2_IRQHandler
+                0x08010bbc                BSTIMER1_IRQHandler
+                0x08010bbc                DAC_IRQHandler
+                0x08010bbc                AFEC_IRQHandler
+                0x08010bbc                QSPI_IRQHandler
+                0x08010bbc                DMA1_IRQHandler
+ *fill*         0x08010bbe        0x2 
+ .text.nvic_init
+                0x08010bc0       0x24 ./objects/system_cm4.o
+                0x08010bc0                nvic_init
+ .text.system_init
+                0x08010be4       0x44 ./objects/system_cm4.o
+                0x08010be4                system_init
+ .text.bstimer_init
+                0x08010c28       0x28 ./objects/tremo_bstimer.o
+                0x08010c28                bstimer_init
+ .text.bstimer_config_overflow_update
+                0x08010c50       0x12 ./objects/tremo_bstimer.o
+                0x08010c50                bstimer_config_overflow_update
+ .text.bstimer_cmd
+                0x08010c62       0x12 ./objects/tremo_bstimer.o
+                0x08010c62                bstimer_cmd
+ .text.bstimer_config_interrupt
+                0x08010c74       0x12 ./objects/tremo_bstimer.o
+                0x08010c74                bstimer_config_interrupt
+ .text.bstimer_get_status
+                0x08010c86        0xe ./objects/tremo_bstimer.o
+                0x08010c86                bstimer_get_status
+ .text.delay_init
+                0x08010c94       0x48 ./objects/tremo_delay.o
+                0x08010c94                delay_init
+ .text.delay_us
+                0x08010cdc       0x30 ./objects/tremo_delay.o
+                0x08010cdc                delay_us
+ .text.delay_ms
+                0x08010d0c        0xa ./objects/tremo_delay.o
+                0x08010d0c                delay_ms
+ *fill*         0x08010d16        0x2 
+ .text.flash_erase_page
+                0x08010d18       0x64 ./objects/tremo_flash.o
+                0x08010d18                flash_erase_page
+ .text.flash_program_bytes
+                0x08010d7c       0xd0 ./objects/tremo_flash.o
+                0x08010d7c                flash_program_bytes
+ .text.gpio_init
+                0x08010e4c      0x124 ./objects/tremo_gpio.o
+                0x08010e4c                gpio_init
+ .text.gpio_write
+                0x08010f70       0xb4 ./objects/tremo_gpio.o
+                0x08010f70                gpio_write
+ .text.gpio_read
+                0x08011024       0x12 ./objects/tremo_gpio.o
+                0x08011024                gpio_read
+ .text.gpio_clear_interrupt
+                0x08011036       0x10 ./objects/tremo_gpio.o
+                0x08011036                gpio_clear_interrupt
+ .text.gpio_config_interrupt
+                0x08011046       0x20 ./objects/tremo_gpio.o
+                0x08011046                gpio_config_interrupt
+ .text.gpio_get_interrupt_status
+                0x08011066       0x14 ./objects/tremo_gpio.o
+                0x08011066                gpio_get_interrupt_status
+ *fill*         0x0801107a        0x2 
+ .text.gpio_set_iomux
+                0x0801107c       0x44 ./objects/tremo_gpio.o
+                0x0801107c                gpio_set_iomux
+ .text.pwr_xo32k_lpm_cmd
+                0x080110c0       0x18 ./objects/tremo_pwr.o
+                0x080110c0                pwr_xo32k_lpm_cmd
+ .text.rcc_get_clk_freq
+                0x080110d8       0x9c ./objects/tremo_rcc.o
+                0x080110d8                rcc_get_clk_freq
+ .text.rcc_get_uart0_clk_source
+                0x08011174        0xc ./objects/tremo_rcc.o
+                0x08011174                rcc_get_uart0_clk_source
+ .text.rcc_get_uart1_clk_source
+                0x08011180        0xc ./objects/tremo_rcc.o
+                0x08011180                rcc_get_uart1_clk_source
+ .text.rcc_get_uart2_clk_source
+                0x0801118c        0xc ./objects/tremo_rcc.o
+                0x0801118c                rcc_get_uart2_clk_source
+ .text.rcc_get_uart3_clk_source
+                0x08011198        0xc ./objects/tremo_rcc.o
+                0x08011198                rcc_get_uart3_clk_source
+ .text.rcc_get_rtc_clk_source
+                0x080111a4        0xc ./objects/tremo_rcc.o
+                0x080111a4                rcc_get_rtc_clk_source
+ .text.rcc_enable_peripheral_clk
+                0x080111b0      0x4b4 ./objects/tremo_rcc.o
+                0x080111b0                rcc_enable_peripheral_clk
+ .text.rcc_enable_oscillator
+                0x08011664       0xfc ./objects/tremo_rcc.o
+                0x08011664                rcc_enable_oscillator
+ .text.rtc_check_syn
+                0x08011760       0x14 ./objects/tremo_rtc.o
+                0x08011760                rtc_check_syn
+ .text.rtc_cyc_cmd
+                0x08011774       0x20 ./objects/tremo_rtc.o
+                0x08011774                rtc_cyc_cmd
+ .text.rtc_config_cyc_wakeup
+                0x08011794       0x24 ./objects/tremo_rtc.o
+                0x08011794                rtc_config_cyc_wakeup
+ .text.rtc_get_calendar
+                0x080117b8       0xdc ./objects/tremo_rtc.o
+                0x080117b8                rtc_get_calendar
+ .text.rtc_set_status
+                0x08011894       0x30 ./objects/tremo_rtc.o
+                0x08011894                rtc_set_status
+ .text.rtc_get_status
+                0x080118c4       0x38 ./objects/tremo_rtc.o
+                0x080118c4                rtc_get_status
+ .text.rtc_config_interrupt
+                0x080118fc       0x38 ./objects/tremo_rtc.o
+                0x080118fc                rtc_config_interrupt
+ .text.rtc_config_cyc_max
+                0x08011934       0x14 ./objects/tremo_rtc.o
+                0x08011934                rtc_config_cyc_max
+ .text.system_reset
+                0x08011948       0x20 ./objects/tremo_system.o
+                0x08011948                system_reset
+ .text.system_get_chip_id
+                0x08011968       0x1c ./objects/tremo_system.o
+                0x08011968                system_get_chip_id
+ .text.timer_init
+                0x08011984       0x44 ./objects/tremo_timer.o
+                0x08011984                timer_init
+ .text.timer_cmd
+                0x080119c8       0x12 ./objects/tremo_timer.o
+                0x080119c8                timer_cmd
+ .text.timer_config_oc
+                0x080119da       0xb4 ./objects/tremo_timer.o
+                0x080119da                timer_config_oc
+ .text.timer_config_pwm
+                0x08011a8e       0x34 ./objects/tremo_timer.o
+                0x08011a8e                timer_config_pwm
+ .text.uart_get_flag_status
+                0x08011ac2        0xc ./objects/tremo_uart.o
+                0x08011ac2                uart_get_flag_status
+ .text.uart_config_interrupt
+                0x08011ace       0x10 ./objects/tremo_uart.o
+                0x08011ace                uart_config_interrupt
+ .text.uart_config_init
+                0x08011ade       0x18 ./objects/tremo_uart.o
+                0x08011ade                uart_config_init
+ .text.uart_cmd
+                0x08011af6       0x12 ./objects/tremo_uart.o
+                0x08011af6                uart_cmd
+ .text.uart_get_interrupt_status
+                0x08011b08        0xc ./objects/tremo_uart.o
+                0x08011b08                uart_get_interrupt_status
+ .text.uart_clear_interrupt
+                0x08011b14        0x4 ./objects/tremo_uart.o
+                0x08011b14                uart_clear_interrupt
+ .text.uart_init
+                0x08011b18      0x140 ./objects/tremo_uart.o
+                0x08011b18                uart_init
+ .text.wdg_start
+                0x08011c58       0x30 ./objects/tremo_wdg.o
+                0x08011c58                wdg_start
+ .text.wdg_reload
+                0x08011c88       0x20 ./objects/tremo_wdg.o
+                0x08011c88                wdg_reload
+ .text.BSTIMER0_IRQHandler
+                0x08011ca8       0x38 ./objects/main.o
+                0x08011ca8                BSTIMER0_IRQHandler
+ .text.millis   0x08011ce0        0xc ./objects/main.o
+                0x08011ce0                millis
+ .text.UART_SendData
+                0x08011cec       0x58 ./objects/main.o
+                0x08011cec                UART_SendData
+ .text.startup.main
+                0x08011d44      0x360 ./objects/main.o
+                0x08011d44                main
+ .text.UART3_IRQHandler
+                0x080120a4       0x50 ./objects/main.o
+                0x080120a4                UART3_IRQHandler
+ .text.UART0_IRQHandler
+                0x080120f4       0x50 ./objects/main.o
+                0x080120f4                UART0_IRQHandler
+ .text.GPIO_IRQHandler
+                0x08012144       0x28 ./objects/main.o
+                0x08012144                GPIO_IRQHandler
+ .text.NMI_Handler
+                0x0801216c        0x2 ./objects/tremo_it.o
+                0x0801216c                NMI_Handler
+ .text.HardFault_Handler
+                0x0801216e        0x2 ./objects/tremo_it.o
+                0x0801216e                HardFault_Handler
+ .text.MemManage_Handler
+                0x08012170        0x2 ./objects/tremo_it.o
+                0x08012170                MemManage_Handler
+ .text.BusFault_Handler
+                0x08012172        0x2 ./objects/tremo_it.o
+                0x08012172                BusFault_Handler
+ .text.UsageFault_Handler
+                0x08012174        0x2 ./objects/tremo_it.o
+                0x08012174                UsageFault_Handler
+ .text.SVC_Handler
+                0x08012176        0x2 ./objects/tremo_it.o
+                0x08012176                SVC_Handler
+ .text.PendSV_Handler
+                0x08012178        0x2 ./objects/tremo_it.o
+                0x08012178                PendSV_Handler
+ .text.SysTick_Handler
+                0x0801217a        0x2 ./objects/tremo_it.o
+                0x0801217a                SysTick_Handler
+ .text.PWR_IRQHandler
+                0x0801217c        0x2 ./objects/tremo_it.o
+                0x0801217c                PWR_IRQHandler
+ .text.LORA_IRQHandler
+                0x0801217e        0x4 ./objects/tremo_it.o
+                0x0801217e                LORA_IRQHandler
+ .text.RTC_IRQHandler
+                0x08012182        0x4 ./objects/tremo_it.o
+                0x08012182                RTC_IRQHandler
+ *fill*         0x08012186        0x2 
+ .text.OnTxDone
+                0x08012188       0x18 ./objects/lora_demo.o
+                0x08012188                OnTxDone
+ .text.OnTxTimeout
+                0x080121a0       0x18 ./objects/lora_demo.o
+                0x080121a0                OnTxTimeout
+ .text.OnRxTimeout
+                0x080121b8       0x18 ./objects/lora_demo.o
+                0x080121b8                OnRxTimeout
+ .text.OnRxError
+                0x080121d0       0x18 ./objects/lora_demo.o
+                0x080121d0                OnRxError
+ .text.OnRxDone
+                0x080121e8       0x40 ./objects/lora_demo.o
+                0x080121e8                OnRxDone
+ .text.lora_init
+                0x08012228      0x19c ./objects/lora_demo.o
+                0x08012228                lora_init
+ .text.Lora_IRQ_Rrocess
+                0x080123c4       0x34 ./objects/lora_demo.o
+                0x080123c4                Lora_IRQ_Rrocess
+ .text.Wait2TXEnd
+                0x080123f8       0x50 ./objects/lora_demo.o
+                0x080123f8                Wait2TXEnd
+ .text.Ymodem_data_process
+                0x08012448       0x6c ./objects/app.o
+                0x08012448                Ymodem_data_process
+ .text.System_Run
+                0x080124b4      0x3a4 ./objects/app.o
+                0x080124b4                System_Run
+ .text.RtcSetTimeout
+                0x08012858       0x8c ./objects/rtc-board.o
+                0x08012858                RtcSetTimeout
+ .text.RtcGetTimerContext
+                0x080128e4        0xc ./objects/rtc-board.o
+                0x080128e4                RtcGetTimerContext
+ .text.RtcGetTimerValue
+                0x080128f0      0x10c ./objects/rtc-board.o
+                0x080128f0                RtcGetTimerValue
+ .text.RtcSetTimerContext
+                0x080129fc       0x18 ./objects/rtc-board.o
+                0x080129fc                RtcSetTimerContext
+ .text.RtcGetElapsedTime
+                0x08012a14       0x18 ./objects/rtc-board.o
+                0x08012a14                RtcGetElapsedTime
+ .text.RtcOnIrq
+                0x08012a2c       0x32 ./objects/rtc-board.o
+                0x08012a2c                RtcOnIrq
+ .text.BoardDisableIrq
+                0x08012a5e        0x4 ./objects/sx1262-board.o
+                0x08012a5e                BoardDisableIrq
+ .text.BoardEnableIrq
+                0x08012a62        0x4 ./objects/sx1262-board.o
+                0x08012a62                BoardEnableIrq
+ *fill*         0x08012a66        0x2 
+ .text.SpiInOut
+                0x08012a68       0x18 ./objects/sx1262-board.o
+                0x08012a68                SpiInOut
+ .text.SX126xLoracInit
+                0x08012a80       0x5c ./objects/sx1262-board.o
+                0x08012a80                SX126xLoracInit
+ .text.SX126xGetBoardTcxoWakeupTime
+                0x08012adc        0x4 ./objects/sx1262-board.o
+                0x08012adc                SX126xGetBoardTcxoWakeupTime
+ .text.SX126xReset
+                0x08012ae0       0x54 ./objects/sx1262-board.o
+                0x08012ae0                SX126xReset
+ .text.SX126xWaitOnBusy
+                0x08012b34       0x18 ./objects/sx1262-board.o
+                0x08012b34                SX126xWaitOnBusy
+ .text.SX126xWakeup
+                0x08012b4c       0x30 ./objects/sx1262-board.o
+                0x08012b4c                SX126xWakeup
+ .text.SX126xWriteCommand
+                0x08012b7c       0x44 ./objects/sx1262-board.o
+                0x08012b7c                SX126xWriteCommand
+ .text.SX126xReadCommand
+                0x08012bc0       0x48 ./objects/sx1262-board.o
+                0x08012bc0                SX126xReadCommand
+ .text.SX126xWriteRegisters
+                0x08012c08       0x48 ./objects/sx1262-board.o
+                0x08012c08                SX126xWriteRegisters
+ .text.SX126xWriteRegister
+                0x08012c50       0x16 ./objects/sx1262-board.o
+                0x08012c50                SX126xWriteRegister
+ *fill*         0x08012c66        0x2 
+ .text.SX126xReadRegisters
+                0x08012c68       0x50 ./objects/sx1262-board.o
+                0x08012c68                SX126xReadRegisters
+ .text.SX126xReadRegister
+                0x08012cb8       0x16 ./objects/sx1262-board.o
+                0x08012cb8                SX126xReadRegister
+ *fill*         0x08012cce        0x2 
+ .text.SX126xWriteBuffer
+                0x08012cd0       0x44 ./objects/sx1262-board.o
+                0x08012cd0                SX126xWriteBuffer
+ .text.SX126xReadBuffer
+                0x08012d14       0x4c ./objects/sx1262-board.o
+                0x08012d14                SX126xReadBuffer
+ .text.SX126xSetRfTxPower
+                0x08012d60        0x6 ./objects/sx1262-board.o
+                0x08012d60                SX126xSetRfTxPower
+ .text.SX126xGetPaSelect
+                0x08012d66        0x4 ./objects/sx1262-board.o
+                0x08012d66                SX126xGetPaSelect
+ *fill*         0x08012d6a        0x2 
+ .text.SX126xAntSwOn
+                0x08012d6c       0x10 ./objects/sx1262-board.o
+                0x08012d6c                SX126xAntSwOn
+ .text.SX126xAntSwOff
+                0x08012d7c       0x10 ./objects/sx1262-board.o
+                0x08012d7c                SX126xAntSwOff
+ .text.DelayMs  0x08012d8c        0x4 ./objects/delay.o
+                0x08012d8c                DelayMs
+ .text.TimeStampsUpdate
+                0x08012d90       0x2c ./objects/timer.o
+ .text.TimerIrqHandler
+                0x08012dbc       0x74 ./objects/timer.o
+                0x08012dbc                TimerIrqHandler
+ .text.SX126xGetOperatingMode
+                0x08012e30        0xc ./objects/sx126x.o
+                0x08012e30                SX126xGetOperatingMode
+ .text.SX126xSetOperatingMode
+                0x08012e3c        0xc ./objects/sx126x.o
+                0x08012e3c                SX126xSetOperatingMode
+ .text.SX126xCheckDeviceReady
+                0x08012e48       0x24 ./objects/sx126x.o
+                0x08012e48                SX126xCheckDeviceReady
+ .text.SX126xSetPayload
+                0x08012e6c        0xa ./objects/sx126x.o
+                0x08012e6c                SX126xSetPayload
+ .text.SX126xSetSyncWord
+                0x08012e76       0x12 ./objects/sx126x.o
+                0x08012e76                SX126xSetSyncWord
+ .text.SX126xSetCrcSeed
+                0x08012e88       0x28 ./objects/sx126x.o
+                0x08012e88                SX126xSetCrcSeed
+ .text.SX126xSetCrcPolynomial
+                0x08012eb0       0x28 ./objects/sx126x.o
+                0x08012eb0                SX126xSetCrcPolynomial
+ .text.SX126xSetWhiteningSeed
+                0x08012ed8       0x38 ./objects/sx126x.o
+                0x08012ed8                SX126xSetWhiteningSeed
+ .text.SX126xSetSleep
+                0x08012f10       0x24 ./objects/sx126x.o
+                0x08012f10                SX126xSetSleep
+ .text.SX126xSetStandby
+                0x08012f34       0x2c ./objects/sx126x.o
+                0x08012f34                SX126xSetStandby
+ .text.SX126xSetTx
+                0x08012f60       0x2c ./objects/sx126x.o
+                0x08012f60                SX126xSetTx
+ .text.SX126xSendPayload
+                0x08012f8c       0x12 ./objects/sx126x.o
+                0x08012f8c                SX126xSendPayload
+ *fill*         0x08012f9e        0x2 
+ .text.SX126xSetRx
+                0x08012fa0       0x2c ./objects/sx126x.o
+                0x08012fa0                SX126xSetRx
+ .text.SX126xSetRxBoosted
+                0x08012fcc       0x38 ./objects/sx126x.o
+                0x08012fcc                SX126xSetRxBoosted
+ .text.SX126xSetRxDutyCycle
+                0x08013004       0x3c ./objects/sx126x.o
+                0x08013004                SX126xSetRxDutyCycle
+ .text.SX126xSetCad
+                0x08013040       0x18 ./objects/sx126x.o
+                0x08013040                SX126xSetCad
+ .text.SX126xSetTxContinuousWave
+                0x08013058        0xa ./objects/sx126x.o
+                0x08013058                SX126xSetTxContinuousWave
+ .text.SX126xSetStopRxTimerOnPreambleDetect
+                0x08013062       0x18 ./objects/sx126x.o
+                0x08013062                SX126xSetStopRxTimerOnPreambleDetect
+ .text.SX126xSetLoRaSymbNumTimeout
+                0x0801307a       0x18 ./objects/sx126x.o
+                0x0801307a                SX126xSetLoRaSymbNumTimeout
+ .text.SX126xSetRegulatorMode
+                0x08013092       0x18 ./objects/sx126x.o
+                0x08013092                SX126xSetRegulatorMode
+ *fill*         0x080130aa        0x2 
+ .text.SX126xCalibrateImage
+                0x080130ac       0x78 ./objects/sx126x.o
+                0x080130ac                SX126xCalibrateImage
+ .text.SX126xSetPaConfig
+                0x08013124       0x24 ./objects/sx126x.o
+                0x08013124                SX126xSetPaConfig
+ .text.SX126xSetDioIrqParams
+                0x08013148       0x38 ./objects/sx126x.o
+                0x08013148                SX126xSetDioIrqParams
+ .text.SX126xGetIrqStatus
+                0x08013180       0x1a ./objects/sx126x.o
+                0x08013180                SX126xGetIrqStatus
+ .text.SX126xSetDio2AsRfSwitchCtrl
+                0x0801319a       0x18 ./objects/sx126x.o
+                0x0801319a                SX126xSetDio2AsRfSwitchCtrl
+ *fill*         0x080131b2        0x2 
+ .text.SX126xInit
+                0x080131b4       0x28 ./objects/sx126x.o
+                0x080131b4                SX126xInit
+ *fill*         0x080131dc        0x4 
+ .text.SX126xSetRfFrequency
+                0x080131e0       0x5c ./objects/sx126x.o
+                0x080131e0                SX126xSetRfFrequency
+ .text.SX126xSetPacketType
+                0x0801323c       0x20 ./objects/sx126x.o
+                0x0801323c                SX126xSetPacketType
+ .text.SX126xGetPacketType
+                0x0801325c        0xc ./objects/sx126x.o
+                0x0801325c                SX126xGetPacketType
+ .text.SX126xSetTxParams
+                0x08013268       0xbc ./objects/sx126x.o
+                0x08013268                SX126xSetTxParams
+ *fill*         0x08013324        0x4 
+ .text.SX126xSetModulationParams
+                0x08013328       0xcc ./objects/sx126x.o
+                0x08013328                SX126xSetModulationParams
+ .text.SX126xSetPacketParams
+                0x080133f4       0xcc ./objects/sx126x.o
+                0x080133f4                SX126xSetPacketParams
+ .text.SX126xSetCadParams
+                0x080134c0       0x3c ./objects/sx126x.o
+                0x080134c0                SX126xSetCadParams
+ .text.SX126xSetBufferBaseAddress
+                0x080134fc       0x1a ./objects/sx126x.o
+                0x080134fc                SX126xSetBufferBaseAddress
+ .text.SX126xGetRssiInst
+                0x08013516       0x1a ./objects/sx126x.o
+                0x08013516                SX126xGetRssiInst
+ .text.SX126xGetRxBufferStatus
+                0x08013530       0x48 ./objects/sx126x.o
+                0x08013530                SX126xGetRxBufferStatus
+ .text.SX126xGetPayload
+                0x08013578       0x32 ./objects/sx126x.o
+                0x08013578                SX126xGetPayload
+ *fill*         0x080135aa        0x2 
+ .text.SX126xGetPacketStatus
+                0x080135ac       0x80 ./objects/sx126x.o
+                0x080135ac                SX126xGetPacketStatus
+ .text.SX126xClearIrqStatus
+                0x0801362c       0x1c ./objects/sx126x.o
+                0x0801362c                SX126xClearIrqStatus
+ .text.RadioIsChannelFree
+                0x08013648        0x4 ./objects/radio.o
+                0x08013648                RadioIsChannelFree
+ .text.RadioCheckRfFrequency
+                0x0801364c        0x4 ./objects/radio.o
+                0x0801364c                RadioCheckRfFrequency
+ .text.RadioStandby
+                0x08013650        0x6 ./objects/radio.o
+                0x08013650                RadioStandby
+ *fill*         0x08013656        0x2 
+ .text.RadioInit
+                0x08013658       0x3c ./objects/radio.o
+                0x08013658                RadioInit
+ .text.RadioGetStatus
+                0x08013694       0x18 ./objects/radio.o
+                0x08013694                RadioGetStatus
+ .text.RadioSetChannel
+                0x080136ac        0x4 ./objects/radio.o
+                0x080136ac                RadioSetChannel
+ .text.RadioRssi
+                0x080136b0        0xa ./objects/radio.o
+                0x080136b0                RadioRssi
+ .text.RadioRead
+                0x080136ba        0x4 ./objects/radio.o
+                0x080136ba                RadioRead
+ .text.RadioWrite
+                0x080136be        0x4 ./objects/radio.o
+                0x080136be                RadioWrite
+ *fill*         0x080136c2        0x2 
+ .text.RadioSend
+                0x080136c4       0x40 ./objects/radio.o
+                0x080136c4                RadioSend
+ .text.RadioSleep
+                0x08013704       0x20 ./objects/radio.o
+                0x08013704                RadioSleep
+ .text.RadioSetRxDutyCycle
+                0x08013724        0x4 ./objects/radio.o
+                0x08013724                RadioSetRxDutyCycle
+ .text.RadioStartCad
+                0x08013728       0x58 ./objects/radio.o
+                0x08013728                RadioStartCad
+ .text.RadioSetTxContinuousWave
+                0x08013780       0x16 ./objects/radio.o
+                0x08013780                RadioSetTxContinuousWave
+ .text.RadioWriteBuffer
+                0x08013796        0x4 ./objects/radio.o
+                0x08013796                RadioWriteBuffer
+ .text.RadioReadBuffer
+                0x0801379a        0x4 ./objects/radio.o
+                0x0801379a                RadioReadBuffer
+ .text.RadioGetWakeupTime
+                0x0801379e        0xa ./objects/radio.o
+                0x0801379e                RadioGetWakeupTime
+ .text.RadioGetFskBandwidthRegValue
+                0x080137a8       0x34 ./objects/radio.o
+ .text.RadioRx  0x080137dc       0x30 ./objects/radio.o
+                0x080137dc                RadioRx
+ .text.RadioSetMaxPayloadLength
+                0x0801380c       0x2c ./objects/radio.o
+                0x0801380c                RadioSetMaxPayloadLength
+ .text.RadioRxBoosted
+                0x08013838       0x2c ./objects/radio.o
+                0x08013838                RadioRxBoosted
+ .text.RadioIrqProcess
+                0x08013864      0x144 ./objects/radio.o
+                0x08013864                RadioIrqProcess
+ .text.RadioSetPublicNetwork
+                0x080139a8       0x40 ./objects/radio.o
+                0x080139a8                RadioSetPublicNetwork
+ .text.RadioSetModem.part.0
+                0x080139e8       0x28 ./objects/radio.o
+ .text.RadioSetModem
+                0x08013a10       0x24 ./objects/radio.o
+                0x08013a10                RadioSetModem
+ .text.RadioRandom
+                0x08013a34       0x3c ./objects/radio.o
+                0x08013a34                RadioRandom
+ .text.RadioSymbTime
+                0x08013a70       0x2c ./objects/radio.o
+                0x08013a70                RadioSymbTime
+ *fill*         0x08013a9c        0x4 
+ .text.RadioSetRxConfig
+                0x08013aa0      0x210 ./objects/radio.o
+                0x08013aa0                RadioSetRxConfig
+ .text.RadioSetTxConfig
+                0x08013cb0      0x194 ./objects/radio.o
+                0x08013cb0                RadioSetTxConfig
+ *fill*         0x08013e44        0x4 
+ .text.RadioTimeOnAir
+                0x08013e48      0x190 ./objects/radio.o
+                0x08013e48                RadioTimeOnAir
+ .text.RadioOnDioIrq
+                0x08013fd8       0x20 ./objects/radio.o
+                0x08013fd8                RadioOnDioIrq
+ .text.rand1    0x08013ff8       0x28 ./objects/utilities.o
+                0x08013ff8                rand1
+ .text.MBS_PhysicalSendBuff
+                0x08014020       0x14 ./objects/modbus_core.o
+                0x08014020                MBS_PhysicalSendBuff
+ .text.MBS_PortSendWithCRC
+                0x08014034       0x22 ./objects/modbus_core.o
+                0x08014034                MBS_PortSendWithCRC
+ *fill*         0x08014056        0x2 
+ .text.MBS_PortSendAck
+                0x08014058       0x44 ./objects/modbus_core.o
+                0x08014058                MBS_PortSendAck
+ .text.MBS_CoreAnalyze
+                0x0801409c       0x40 ./objects/modbus_core.o
+                0x0801409c                MBS_CoreAnalyze
+ .text.MBS_CorePoll
+                0x080140dc       0x64 ./objects/modbus_core.o
+                0x080140dc                MBS_CorePoll
+ .text.MBS_Physical2SendBuff
+                0x08014140        0x4 ./objects/modbus_core.o
+                0x08014140                MBS_Physical2SendBuff
+ .text.mb_crc16
+                0x08014144       0x2c ./objects/modbus_crc.o
+                0x08014144                mb_crc16
+ .text.MBS_Function01H
+                0x08014170       0xf0 ./objects/modbus_hook.o
+                0x08014170                MBS_Function01H
+ .text.MBS_Function05H
+                0x08014260       0x54 ./objects/modbus_hook.o
+                0x08014260                MBS_Function05H
+ .text.MBS_Function0FH
+                0x080142b4       0x70 ./objects/modbus_hook.o
+                0x080142b4                MBS_Function0FH
+ .text.MBS_Function03H
+                0x08014324       0x80 ./objects/modbus_hook.o
+                0x08014324                MBS_Function03H
+ .text.MBS_Function06H
+                0x080143a4       0x3c ./objects/modbus_hook.o
+                0x080143a4                MBS_Function06H
+ .text.MBS_Function10H
+                0x080143e0       0x50 ./objects/modbus_hook.o
+                0x080143e0                MBS_Function10H
+ .text.MBS_MappingInit
+                0x08014430      0x188 ./objects/modbus_user.o
+                0x08014430                MBS_MappingInit
+ .text.MBS_MemReadCoilState
+                0x080145b8       0x28 ./objects/modbus_user.o
+                0x080145b8                MBS_MemReadCoilState
+ .text.MBS_MemWriteCoilsState
+                0x080145e0       0x48 ./objects/modbus_user.o
+                0x080145e0                MBS_MemWriteCoilsState
+ .text.MBS_MemWriteCoilState
+                0x08014628       0x2c ./objects/modbus_user.o
+                0x08014628                MBS_MemWriteCoilState
+ .text.MBS_MemReadHoldRegValue
+                0x08014654       0x5c ./objects/modbus_user.o
+                0x08014654                MBS_MemReadHoldRegValue
+ .text.MBS_MemWriteHoldRegValue
+                0x080146b0       0x5c ./objects/modbus_user.o
+                0x080146b0                MBS_MemWriteHoldRegValue
+ .text.Cmd_BeaconRequest
+                0x0801470c      0x10c ./objects/lora_cmd_m.o
+                0x0801470c                Cmd_BeaconRequest
+ .text.Cmd_SlaverInNet
+                0x08014818       0x60 ./objects/lora_cmd_m.o
+                0x08014818                Cmd_SlaverInNet
+ .text.Cmd_Slaver_Request_Leave
+                0x08014878       0x54 ./objects/lora_cmd_m.o
+                0x08014878                Cmd_Slaver_Request_Leave
+ .text.Cmd_HeartBeat
+                0x080148cc        0x2 ./objects/lora_cmd_m.o
+                0x080148cc                Cmd_HeartBeat
+ *fill*         0x080148ce        0x2 
+ .text.Cmd_Lora_SendData
+                0x080148d0       0x40 ./objects/lora_cmd_m.o
+                0x080148d0                Cmd_Lora_SendData
+ .text.Cmd_MBS_Cmd_ACK
+                0x08014910        0x2 ./objects/lora_cmd_m.o
+                0x08014910                Cmd_MBS_Cmd_ACK
+ *fill*         0x08014912        0x2 
+ .text.Cmd_Beacon
+                0x08014914       0x80 ./objects/lora_cmd_s.o
+                0x08014914                Cmd_Beacon
+ .text.Cmd_DeviceAnnonce
+                0x08014994       0x58 ./objects/lora_cmd_s.o
+                0x08014994                Cmd_DeviceAnnonce
+ .text.Cmd_Master_Request_Leave
+                0x080149ec       0x38 ./objects/lora_cmd_s.o
+                0x080149ec                Cmd_Master_Request_Leave
+ .text.Cmd_Lora_Change_Para
+                0x08014a24       0x50 ./objects/lora_cmd_s.o
+                0x08014a24                Cmd_Lora_Change_Para
+ .text.Cmd_Query_Rssi
+                0x08014a74       0x2c ./objects/lora_cmd_s.o
+                0x08014a74                Cmd_Query_Rssi
+ .text.PCmd_BeaconRequest
+                0x08014aa0       0x2c ./objects/lora_cmd_s.o
+                0x08014aa0                PCmd_BeaconRequest
+ .text.PCmd_HeartBeat
+                0x08014acc       0x58 ./objects/lora_cmd_s.o
+                0x08014acc                PCmd_HeartBeat
+ .text.Cmd_MBS_Cmd_Request
+                0x08014b24       0x44 ./objects/lora_cmd_s.o
+                0x08014b24                Cmd_MBS_Cmd_Request
+ .text.PCmd_MBS_Cmd_ACK
+                0x08014b68       0x20 ./objects/lora_cmd_s.o
+                0x08014b68                PCmd_MBS_Cmd_ACK
+ .text.NVIC_SystemReset
+                0x08014b88       0x20 ./objects/lora_core.o
+ .text.CusProfile_Send
+                0x08014ba8       0xb4 ./objects/lora_core.o
+                0x08014ba8                CusProfile_Send
+ .text.CusProfile_Receive
+                0x08014c5c      0x178 ./objects/lora_core.o
+                0x08014c5c                CusProfile_Receive
+ .text.Slaver_Period_1s
+                0x08014dd4      0x180 ./objects/lora_core.o
+                0x08014dd4                Slaver_Period_1s
+ .text.Lora_State_Data_Syn
+                0x08014f54      0x17c ./objects/lora_flash.o
+                0x08014f54                Lora_State_Data_Syn
+ .text.Lora_State_Save
+                0x080150d0       0xb0 ./objects/lora_flash.o
+                0x080150d0                Lora_State_Save
+ .text.Lora_AsData_Add
+                0x08015180       0x8c ./objects/lora_flash.o
+                0x08015180                Lora_AsData_Add
+ .text.Lora_AsData_Del
+                0x0801520c       0x3c ./objects/lora_flash.o
+                0x0801520c                Lora_AsData_Del
+ .text.mbs_data_syn
+                0x08015248      0x118 ./objects/lora_flash.o
+                0x08015248                mbs_data_syn
+ .text.mbs_data_save
+                0x08015360      0x1d4 ./objects/lora_flash.o
+                0x08015360                mbs_data_save
+ .text.IAP_Check
+                0x08015534       0x80 ./objects/lora_flash.o
+                0x08015534                IAP_Check
+ .text.Get_IDLE_ID
+                0x080155b4       0x20 ./objects/lora_function.o
+                0x080155b4                Get_IDLE_ID
+ .text.Compare_ShortAddr
+                0x080155d4       0x28 ./objects/lora_function.o
+                0x080155d4                Compare_ShortAddr
+ .text.Compare_MAC
+                0x080155fc       0x3c ./objects/lora_function.o
+                0x080155fc                Compare_MAC
+ .text.XOR_Calculate
+                0x08015638       0x14 ./objects/lora_function.o
+                0x08015638                XOR_Calculate
+ .text.Lora_ReceiveData2State
+                0x0801564c       0x40 ./objects/lora_function.o
+                0x0801564c                Lora_ReceiveData2State
+ .text.ChipID_Syn
+                0x0801568c       0x50 ./objects/lora_user.o
+                0x0801568c                ChipID_Syn
+ .text.Lora_StateInit
+                0x080156dc       0x18 ./objects/lora_user.o
+                0x080156dc                Lora_StateInit
+ .text.User_Slaver_Cmd
+                0x080156f4       0x7c ./objects/lora_user.o
+                0x080156f4                User_Slaver_Cmd
+ .text.Random_Delay
+                0x08015770       0x3c ./objects/lora_user.o
+                0x08015770                Random_Delay
+ .text.Lora_Send_Data
+                0x080157ac       0x24 ./objects/lora_user.o
+                0x080157ac                Lora_Send_Data
+ .text.Cmd_OTA_Device
+                0x080157d0       0xb4 ./objects/lora_user.o
+                0x080157d0                Cmd_OTA_Device
+ .text.Cmd_OTA_SubDevice
+                0x08015884       0x64 ./objects/lora_user.o
+                0x08015884                Cmd_OTA_SubDevice
+ .text.PCmd_OTA_SubDeviceAck
+                0x080158e8       0x18 ./objects/lora_user.o
+                0x080158e8                PCmd_OTA_SubDeviceAck
+ .text.Cmd_Query_Version
+                0x08015900       0x44 ./objects/lora_user.o
+                0x08015900                Cmd_Query_Version
+ .text.Cmd_Query_SubVersion
+                0x08015944       0x50 ./objects/lora_user.o
+                0x08015944                Cmd_Query_SubVersion
+ .text.PCmd_Query_SubVersion_ACK
+                0x08015994       0xac ./objects/lora_user.o
+                0x08015994                PCmd_Query_SubVersion_ACK
+ .text.PCmd_RoomIR_Update
+                0x08015a40       0x38 ./objects/lora_user.o
+                0x08015a40                PCmd_RoomIR_Update
+ .text.mbh_hook_rec01
+                0x08015a78       0x4c ./objects/mb_hook.o
+                0x08015a78                mbh_hook_rec01
+ .text.mbh_hook_rec03
+                0x08015ac4       0x4c ./objects/mb_hook.o
+                0x08015ac4                mbh_hook_rec03
+ .text.mbh_hook_rec05
+                0x08015b10       0x50 ./objects/mb_hook.o
+                0x08015b10                mbh_hook_rec05
+ .text.mbh_hook_rec06
+                0x08015b60       0x40 ./objects/mb_hook.o
+                0x08015b60                mbh_hook_rec06
+ .text.mbh_hook_rec15
+                0x08015ba0       0x54 ./objects/mb_hook.o
+                0x08015ba0                mbh_hook_rec15
+ .text.mbh_hook_rec16
+                0x08015bf4       0x54 ./objects/mb_hook.o
+                0x08015bf4                mbh_hook_rec16
+ .text.MBS_0FH.part.0
+                0x08015c48       0x80 ./objects/mb_host.o
+ .text.mbh_exec
+                0x08015cc8      0x294 ./objects/mb_host.o
+                0x08015cc8                mbh_exec
+ .text.mbh_poll
+                0x08015f5c       0xb8 ./objects/mb_host.o
+                0x08015f5c                mbh_poll
+ .text.MBS_01H  0x08016014       0x60 ./objects/mb_host.o
+                0x08016014                MBS_01H
+ .text.MBS_03H  0x08016074       0x64 ./objects/mb_host.o
+                0x08016074                MBS_03H
+ .text.MBS_Master_Period_100ms
+                0x080160d8      0x17c ./objects/mb_host.o
+                0x080160d8                MBS_Master_Period_100ms
+ .text.mbs_coildata_syn
+                0x08016254       0x60 ./objects/mb_host.o
+                0x08016254                mbs_coildata_syn
+ .text.mbs_regdata_syn
+                0x080162b4       0x5e ./objects/mb_host.o
+                0x080162b4                mbs_regdata_syn
+ *fill*         0x08016312        0x2 
+ .text.mb_port_send_data
+                0x08016314       0x48 ./objects/mb_port.o
+                0x08016314                mb_port_send_data
+ .text.mb_port_get_tick
+                0x0801635c        0xc ./objects/mb_port.o
+                0x0801635c                mb_port_get_tick
+ .text.MBS_IR_Map_Init
+                0x08016368       0x2c ./objects/mb_port.o
+                0x08016368                MBS_IR_Map_Init
+ .text.MBS_RoomLight_Map_Init
+                0x08016394       0x38 ./objects/mb_port.o
+                0x08016394                MBS_RoomLight_Map_Init
+ .text.MBS_IR_Detect_Map_Init
+                0x080163cc       0x5c ./objects/mb_port.o
+                0x080163cc                MBS_IR_Detect_Map_Init
+ .text.MBS_IR_Detect2_Map_Init
+                0x08016428       0x5c ./objects/mb_port.o
+                0x08016428                MBS_IR_Detect2_Map_Init
+ .text.MBS_Switch_Map_Init
+                0x08016484       0x78 ./objects/mb_port.o
+                0x08016484                MBS_Switch_Map_Init
+ .text.MBS_BLE_Map_Init
+                0x080164fc       0x60 ./objects/mb_port.o
+                0x080164fc                MBS_BLE_Map_Init
+ .text.MBS_RoomIR_Map_Init
+                0x0801655c       0x74 ./objects/mb_port.o
+                0x0801655c                MBS_RoomIR_Map_Init
+ .text.mbh_map_init
+                0x080165d0       0x2c ./objects/mb_port.o
+                0x080165d0                mbh_map_init
+ .text.ringbuff_write_Hex
+                0x080165fc       0x48 ./objects/ringbuff.o
+                0x080165fc                ringbuff_write_Hex
+ .text.ringbuff_read_Hex
+                0x08016644       0x52 ./objects/ringbuff.o
+                0x08016644                ringbuff_read_Hex
+ *fill*         0x08016696        0x2 
+ .text.mbs_ctrl
+                0x08016698       0x38 ./objects/mbs_cmd_ctrl.o
+                0x08016698                mbs_ctrl
+ .text.RelayGPIO_Write.part.0
+                0x080166d0       0x74 ./objects/relay_ctrl.o
+ .text.AirCon_Relay_Auto_Close
+                0x08016744        0x2 ./objects/relay_ctrl.o
+                0x08016744                AirCon_Relay_Auto_Close
+ *fill*         0x08016746        0x2 
+ .text.MBS_Data_Init
+                0x08016748      0x100 ./objects/relay_ctrl.o
+                0x08016748                MBS_Data_Init
+ .text.RelayGPIO_Write
+                0x08016848        0xa ./objects/relay_ctrl.o
+                0x08016848                RelayGPIO_Write
+ .text.Relay_All_Closed
+                0x08016852       0x14 ./objects/relay_ctrl.o
+                0x08016852                Relay_All_Closed
+ *fill*         0x08016866        0x2 
+ .text.Relay_CTRL
+                0x08016868      0x404 ./objects/relay_ctrl.o
+                0x08016868                Relay_CTRL
+ .text.Relay_Service
+                0x08016c6c       0x94 ./objects/relay_ctrl.o
+                0x08016c6c                Relay_Service
+ .text.RGB_PWM_CTRL
+                0x08016d00       0x38 ./objects/rgb_ctrl.o
+                0x08016d00                RGB_PWM_CTRL
+ .text.PWM_CTRL_DataFrom_showcow20
+                0x08016d38       0xbc ./objects/rgb_ctrl.o
+                0x08016d38                PWM_CTRL_DataFrom_showcow20
+ .text.RGB_Service
+                0x08016df4       0x44 ./objects/rgb_ctrl.o
+                0x08016df4                RGB_Service
+ .text.__libc_init_array
+                0x08016e38       0x48 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-init.o)
+                0x08016e38                __libc_init_array
+ .text.memset   0x08016e80       0xa4 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memset.o)
+                0x08016e80                memset
+ .text.startup.register_fini
+                0x08016f24       0x14 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+ .text.atexit   0x08016f38        0xc e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atexit.o)
+                0x08016f38                atexit
+ .text.__libc_fini_array
+                0x08016f44       0x2c e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-fini.o)
+                0x08016f44                __libc_fini_array
+ .text.__retarget_lock_acquire_recursive
+                0x08016f70        0x4 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                0x08016f70                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x08016f74        0x4 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                0x08016f74                __retarget_lock_release_recursive
+ .text.__register_exitproc
+                0x08016f78       0x8c e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__atexit.o)
+                0x08016f78                __register_exitproc
+ *fill*         0x08017004        0x4 
+ .text.ceil     0x08017008       0xf8 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a(lib_a-s_ceil.o)
+                0x08017008                ceil
+ .text.floor    0x08017100       0xf8 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a(lib_a-s_floor.o)
+                0x08017100                floor
+ .text.rint     0x080171f8      0x138 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a(lib_a-s_rint.o)
+                0x080171f8                rint
+ .text.round    0x08017330       0x94 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a(lib_a-s_round.o)
+                0x08017330                round
+ *(.glue_7)
+ .glue_7        0x080173c4        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x080173c4        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x080173c4        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+ *(.init)
+ .init          0x080173c4        0x4 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
+                0x080173c4                _init
+ .init          0x080173c8        0x8 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x080173d0        0x4 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
+                0x080173d0                _fini
+ .fini          0x080173d4        0x8 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
+                0x080173dc                . = ALIGN (0x4)
+                0x080173dc                _etext = .
+
+.vfp11_veneer   0x080173dc        0x0
+ .vfp11_veneer  0x080173dc        0x0 linker stubs
+
+.v4_bx          0x080173dc        0x0
+ .v4_bx         0x080173dc        0x0 linker stubs
+
+.iplt           0x080173dc        0x0
+ .iplt          0x080173dc        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+
+.rodata         0x080173e0      0x6a8
+                0x080173e0                . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x080173e0        0xc ./objects/tremo_uart.o
+ .rodata        0x080173ec        0x8 ./objects/app.o
+ .rodata        0x080173f4      0x2ca ./objects/stm8_armcode.o
+                0x080173f4                stm8ArmCode_PA2
+ .rodata        0x080176be       0x18 ./objects/rtc-board.o
+ .rodata        0x080176d6       0x11 ./objects/sx126x.o
+ *fill*         0x080176e7        0x1 
+ .rodata        0x080176e8      0x188 ./objects/radio.o
+                0x080176e8                FskBandwidths
+                0x080177f8                Bandwidths
+                0x08017804                Radio
+ .rodata        0x08017870      0x200 ./objects/modbus_crc.o
+                0x08017870                TblCRCHi
+                0x08017970                TblCRCLo
+ *(.rodata*)
+ .rodata.str1.1
+                0x08017a70        0x4 ./objects/main.o
+ .rodata._global_impure_ptr
+                0x08017a74        0x4 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-impure.o)
+                0x08017a74                _global_impure_ptr
+ .rodata.TWO52  0x08017a78       0x10 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a(lib_a-s_rint.o)
+                0x08017a88                . = ALIGN (0x4)
+
+.rel.dyn        0x08017a88        0x0
+ .rel.iplt      0x08017a88        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x08017a88        0x0
+                0x08017a88                __exidx_start = .
+ *(.ARM.exidx*)
+                0x08017a88                __exidx_end = .
+
+.preinit_array  0x08017a88        0x0
+                0x08017a88                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x08017a88                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x08017a88        0x8
+                0x08017a88                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x08017a88        0x4 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x08017a8c        0x4 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+                0x08017a90                PROVIDE (__init_array_end = .)
+
+.fini_array     0x08017a90        0x4
+                0x08017a90                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x08017a90        0x4 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+                0x08017a94                PROVIDE (__fini_array_end = .)
+                0x08017a94                _sidata = LOADADDR (.data)
+
+.data           0x20000000      0x45c load address 0x08017a94
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ .data          0x20000000        0x1 ./objects/app.o
+ .data          0x20000001        0x1 ./objects/radio.o
+                0x20000001                MaxPayloadLength
+ *fill*         0x20000002        0x2 
+ .data          0x20000004        0x4 ./objects/utilities.o
+ .data          0x20000008       0x18 ./objects/modbus_user.o
+                0x20000008                mbsCoil
+                0x20000014                mbsHoldReg
+ .data          0x20000020        0x1 ./objects/lora_core.o
+ .data          0x20000021        0x8 ./objects/lora_user.o
+                0x20000021                IAP_Key
+ *fill*         0x20000029        0x1 
+ .data          0x2000002a        0x6 ./objects/rgb_ctrl.o
+ *(.data*)
+ .data.impure_data
+                0x20000030      0x428 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x20000458        0x4 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+                0x20000458                __atexit_recursive_mutex
+                0x2000045c                . = ALIGN (0x4)
+                0x2000045c                _edata = .
+
+.igot.plt       0x2000045c        0x0 load address 0x08017ef0
+ .igot.plt      0x2000045c        0x0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+                0x2000045c                . = ALIGN (0x4)
+
+.bss            0x20000460     0x1688 load address 0x08017ef0
+                0x20000460                _sbss = .
+                0x20000460                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x20000460       0x1c e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .bss           0x2000047c        0x1 ./objects/tremo_delay.o
+ *fill*         0x2000047d        0x3 
+ .bss           0x20000480      0x126 ./objects/main.o
+                0x20000480                Sys_ms
+                0x20000484                uart_state
+                0x20000588                oc_init
+                0x20000594                timerx_init
+                0x200005a4                GPIO_RST_Flag
+ *fill*         0x200005a6        0x2 
+ .bss           0x200005a8       0x2c ./objects/lora_demo.o
+                0x200005a8                State
+                0x200005a9                RssiValue
+                0x200005aa                SnrValue
+                0x200005ac                ChipId
+ .bss           0x200005d4       0x2c ./objects/app.o
+                0x200005f8                IAP_Delay
+ .bss           0x20000600       0x1d ./objects/rtc-board.o
+                0x20000604                RtcCalendarContext
+                0x20000610                RtcTimerContext
+                0x20000618                McuWakeUpTime
+                0x2000061c                NonScheduledWakeUp
+ .bss           0x2000061d        0x1 ./objects/sx1262-board.o
+                0x2000061d                gPaOptSetting
+ *fill*         0x2000061e        0x2 
+ .bss           0x20000620       0x11 ./objects/timer.o
+                0x20000630                HasLoopedThroughMain
+ *fill*         0x20000631        0x3 
+ .bss           0x20000634        0x8 ./objects/sx126x.o
+                0x20000638                FrequencyError
+ .bss           0x2000063c      0x16c ./objects/radio.o
+                0x20000640                IrqFired
+                0x20000644                SX126x
+                0x20000680                RxContinuous
+                0x20000684                RxTimeout
+                0x20000688                irqRegs
+                0x2000068a                RadioRxPayload
+                0x2000078c                RadioPktStatus
+                0x200007a4                TxTimeout
+ .bss           0x200007a8      0x130 ./objects/modbus_core.o
+                0x200007a8                MBS_Buf
+ .bss           0x200008d8      0x1a0 ./objects/modbus_user.o
+                0x200008d8                mbsCoilValue
+                0x20000960                mbsHoldRegValue
+ .bss           0x20000a78       0x20 ./objects/lora_at_cmd.o
+                0x20000a78                Lora_Para_AT
+                0x20000a88                Lora_Para_AT_Last
+ .bss           0x20000a98      0x660 ./objects/lora_core.o
+                0x20000a98                Lora_State
+                0x20000cc0                PackageID
+                0x20000cc4                Register_Device
+                0x20000d78                Associated_devices
+ .bss           0x200010f8       0xac ./objects/lora_flash.o
+                0x200010f8                page1_offset
+                0x200010fa                page2_offset
+                0x200011a2                page3_offset
+ .bss           0x200011a4        0x1 ./objects/lora_function.o
+                0x200011a4                Reset_FLAG
+ *fill*         0x200011a5        0x3 
+ .bss           0x200011a8        0x9 ./objects/lora_user.o
+                0x200011a8                RoomCtrlTestMode
+                0x200011ac                OTA_Last_time
+                0x200011b0                STM8_IAP_Flag
+ *fill*         0x200011b1        0x3 
+ .bss           0x200011b4       0x3c ./objects/ymodem.o
+                0x200011b4                ymodem_session
+ .bss           0x200011f0      0x11c ./objects/mb_host.o
+                0x200011f0                mb_host
+ .bss           0x2000130c      0x16c ./objects/mb_port.o
+                0x2000130c                MBS_IR
+                0x2000131c                mbs_reg_ir
+                0x20001324                MBS_ALL
+                0x20001340                MBS_RoomLight
+                0x20001350                mbs_reg_roomlight
+                0x20001358                MBS_IR_Detect
+                0x20001368                mbs_reg_irdetect
+                0x20001374                mbs_coil_irdetect
+                0x20001378                MBS_IR_Detect2
+                0x20001388                mbs_reg_irdetect2
+                0x20001394                mbs_coil_irdetect2
+                0x20001398                MBS_Switch
+                0x200013a8                mbs_reg_switch
+                0x200013b0                mbs_coil_switch
+                0x200013c0                MBS_ble
+                0x200013d0                mbs_reg_ble
+                0x200013dc                mbs_coil_ble
+                0x200013e0                MBS_RoomIR
+                0x200013f0                mbs_reg_roomir
+                0x200013fc                mbs_coil_roomir
+ .bss           0x20001478      0x568 ./objects/ringbuff.o
+                0x20001478                Z9_ringbuf
+                0x2000172c                MBS_ringbuf
+ .bss           0x200019e0        0x4 ./objects/mbs_cmd_ctrl.o
+ .bss           0x200019e4       0xfd ./objects/relay_ctrl.o
+                0x200019e4                DeviceControlState
+                0x20001a60                Relay_Index
+                0x20001adc                AirCon_Close_Flag
+                0x20001add                close_count
+ *(.bss*)
+ *fill*         0x20001ae1        0x3 
+ .bss.__lock___atexit_recursive_mutex
+                0x20001ae4        0x1 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                0x20001ae4                __lock___atexit_recursive_mutex
+ *(COMMON)
+                0x20001ae8                . = ALIGN (0x4)
+ *fill*         0x20001ae5        0x3 
+                0x20001ae8                _ebss = .
+                0x20001ae8                __bss_end__ = _ebss
+
+.heap           0x20001ae8        0x0 load address 0x08017ef0
+                0x20001ae8                . = ALIGN (0x4)
+                0x20001ae8                _heap_bottom = .
+                0x20001ae8                end = _heap_bottom
+                0x20001ae8                _end = end
+                0x20001ae8                __end = end
+                0x20001ae8                . = (. + _HEAP_SIZE)
+                0x20001ae8                _heap_top = .
+
+.stack          0x20001ae8     0x1000 load address 0x08017ef0
+                0x20001ae8                . = ALIGN (0x4)
+                0x20001ae8                _stack_bottom = .
+                0x20002ae8                . = (. + _STACK_SIZE)
+ *fill*         0x20001ae8     0x1000 
+                0x20002ae8                _stack_top = .
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x2e
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1e e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
+ .ARM.attributes
+                0x0000001e       0x2e e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x0000004c       0x25 ./objects/startup_cm4.o
+ .ARM.attributes
+                0x00000071       0x32 ./objects/system_cm4.o
+ .ARM.attributes
+                0x000000a3       0x32 ./objects/tremo_bstimer.o
+ .ARM.attributes
+                0x000000d5       0x32 ./objects/tremo_delay.o
+ .ARM.attributes
+                0x00000107       0x32 ./objects/tremo_flash.o
+ .ARM.attributes
+                0x00000139       0x32 ./objects/tremo_gpio.o
+ .ARM.attributes
+                0x0000016b       0x32 ./objects/tremo_pwr.o
+ .ARM.attributes
+                0x0000019d       0x32 ./objects/tremo_rcc.o
+ .ARM.attributes
+                0x000001cf       0x32 ./objects/tremo_rtc.o
+ .ARM.attributes
+                0x00000201       0x32 ./objects/tremo_system.o
+ .ARM.attributes
+                0x00000233       0x32 ./objects/tremo_timer.o
+ .ARM.attributes
+                0x00000265       0x32 ./objects/tremo_uart.o
+ .ARM.attributes
+                0x00000297       0x32 ./objects/tremo_wdg.o
+ .ARM.attributes
+                0x000002c9       0x32 ./objects/main.o
+ .ARM.attributes
+                0x000002fb       0x32 ./objects/tremo_it.o
+ .ARM.attributes
+                0x0000032d       0x32 ./objects/lora_demo.o
+ .ARM.attributes
+                0x0000035f       0x32 ./objects/app.o
+ .ARM.attributes
+                0x00000391       0x32 ./objects/stm8_armcode.o
+ .ARM.attributes
+                0x000003c3       0x32 ./objects/rtc-board.o
+ .ARM.attributes
+                0x000003f5       0x32 ./objects/sx1262-board.o
+ .ARM.attributes
+                0x00000427       0x32 ./objects/delay.o
+ .ARM.attributes
+                0x00000459       0x32 ./objects/timer.o
+ .ARM.attributes
+                0x0000048b       0x32 ./objects/sx126x.o
+ .ARM.attributes
+                0x000004bd       0x32 ./objects/radio.o
+ .ARM.attributes
+                0x000004ef       0x32 ./objects/utilities.o
+ .ARM.attributes
+                0x00000521       0x32 ./objects/modbus_core.o
+ .ARM.attributes
+                0x00000553       0x32 ./objects/modbus_crc.o
+ .ARM.attributes
+                0x00000585       0x32 ./objects/modbus_hook.o
+ .ARM.attributes
+                0x000005b7       0x32 ./objects/modbus_user.o
+ .ARM.attributes
+                0x000005e9       0x32 ./objects/lora_at_cmd.o
+ .ARM.attributes
+                0x0000061b       0x32 ./objects/lora_cmd_m.o
+ .ARM.attributes
+                0x0000064d       0x32 ./objects/lora_cmd_s.o
+ .ARM.attributes
+                0x0000067f       0x32 ./objects/lora_core.o
+ .ARM.attributes
+                0x000006b1       0x32 ./objects/lora_flash.o
+ .ARM.attributes
+                0x000006e3       0x32 ./objects/lora_function.o
+ .ARM.attributes
+                0x00000715       0x32 ./objects/lora_user.o
+ .ARM.attributes
+                0x00000747       0x32 ./objects/ymodem.o
+ .ARM.attributes
+                0x00000779       0x32 ./objects/mb_hook.o
+ .ARM.attributes
+                0x000007ab       0x32 ./objects/mb_host.o
+ .ARM.attributes
+                0x000007dd       0x32 ./objects/mb_port.o
+ .ARM.attributes
+                0x0000080f       0x32 ./objects/ringbuff.o
+ .ARM.attributes
+                0x00000841       0x32 ./objects/mbs_cmd_ctrl.o
+ .ARM.attributes
+                0x00000873       0x32 ./objects/relay_ctrl.o
+ .ARM.attributes
+                0x000008a5       0x32 ./objects/rgb_ctrl.o
+ .ARM.attributes
+                0x000008d7       0x1e e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x000008f5       0x1e e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000913       0x1e e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000931       0x1e e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunsdfsi.o)
+ .ARM.attributes
+                0x0000094f       0x2e e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_fixunsdfdi.o)
+ .ARM.attributes
+                0x0000097d       0x2e e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000009ab       0x2e e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x000009d9       0x1c e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x000009f5       0x2e e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000a23       0x2e e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000a51       0x2e e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000a7f       0x2e e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000aad       0x2e e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+ .ARM.attributes
+                0x00000adb       0x2e e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000b09       0x1e e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
+OUTPUT(./Objects/project.elf elf32-littlearm)
+LOAD linker stubs
+LOAD e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a
+LOAD e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a
+LOAD e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a
+
+.debug_line     0x00000000     0xfff6
+ .debug_line    0x00000000       0x70 ./objects/startup_cm4.o
+ .debug_line    0x00000070      0x22a ./objects/system_cm4.o
+ .debug_line    0x0000029a      0x34b ./objects/tremo_bstimer.o
+ .debug_line    0x000005e5      0x23d ./objects/tremo_delay.o
+ .debug_line    0x00000822      0x597 ./objects/tremo_flash.o
+ .debug_line    0x00000db9      0x667 ./objects/tremo_gpio.o
+ .debug_line    0x00001420      0x393 ./objects/tremo_pwr.o
+ .debug_line    0x000017b3     0x116e ./objects/tremo_rcc.o
+ .debug_line    0x00002921      0xcff ./objects/tremo_rtc.o
+ .debug_line    0x00003620      0x1ab ./objects/tremo_system.o
+ .debug_line    0x000037cb      0xd59 ./objects/tremo_timer.o
+ .debug_line    0x00004524      0x60b ./objects/tremo_uart.o
+ .debug_line    0x00004b2f      0x1a1 ./objects/tremo_wdg.o
+ .debug_line    0x00004cd0      0x77c ./objects/main.o
+ .debug_line    0x0000544c      0x116 ./objects/tremo_it.o
+ .debug_line    0x00005562      0x3f9 ./objects/lora_demo.o
+ .debug_line    0x0000595b      0x6b1 ./objects/app.o
+ .debug_line    0x0000600c       0xce ./objects/stm8_armcode.o
+ .debug_line    0x000060da      0x51f ./objects/rtc-board.o
+ .debug_line    0x000065f9      0x783 ./objects/sx1262-board.o
+ .debug_line    0x00006d7c      0x111 ./objects/delay.o
+ .debug_line    0x00006e8d      0x674 ./objects/timer.o
+ .debug_line    0x00007501      0xda3 ./objects/sx126x.o
+ .debug_line    0x000082a4      0xd7b ./objects/radio.o
+ .debug_line    0x0000901f      0x1dd ./objects/utilities.o
+ .debug_line    0x000091fc      0x2fc ./objects/modbus_core.o
+ .debug_line    0x000094f8       0x85 ./objects/modbus_crc.o
+ .debug_line    0x0000957d      0x488 ./objects/modbus_hook.o
+ .debug_line    0x00009a05      0x778 ./objects/modbus_user.o
+ .debug_line    0x0000a17d      0x86a ./objects/lora_at_cmd.o
+ .debug_line    0x0000a9e7      0x3c8 ./objects/lora_cmd_m.o
+ .debug_line    0x0000adaf      0x52c ./objects/lora_cmd_s.o
+ .debug_line    0x0000b2db      0x6ef ./objects/lora_core.o
+ .debug_line    0x0000b9ca      0xcbd ./objects/lora_flash.o
+ .debug_line    0x0000c687      0x466 ./objects/lora_function.o
+ .debug_line    0x0000caed      0x742 ./objects/lora_user.o
+ .debug_line    0x0000d22f      0x4aa ./objects/ymodem.o
+ .debug_line    0x0000d6d9      0x38e ./objects/mb_hook.o
+ .debug_line    0x0000da67      0xd47 ./objects/mb_host.o
+ .debug_line    0x0000e7ae      0x623 ./objects/mb_port.o
+ .debug_line    0x0000edd1      0x32c ./objects/ringbuff.o
+ .debug_line    0x0000f0fd      0x121 ./objects/mbs_cmd_ctrl.o
+ .debug_line    0x0000f21e      0xaff ./objects/relay_ctrl.o
+ .debug_line    0x0000fd1d      0x2d9 ./objects/rgb_ctrl.o
+
+.debug_info     0x00000000    0x1f7b9
+ .debug_info    0x00000000       0x22 ./objects/startup_cm4.o
+ .debug_info    0x00000022      0x829 ./objects/system_cm4.o
+ .debug_info    0x0000084b      0x6cf ./objects/tremo_bstimer.o
+ .debug_info    0x00000f1a      0x79f ./objects/tremo_delay.o
+ .debug_info    0x000016b9      0x55d ./objects/tremo_flash.o
+ .debug_info    0x00001c16      0x8de ./objects/tremo_gpio.o
+ .debug_info    0x000024f4      0x9d6 ./objects/tremo_pwr.o
+ .debug_info    0x00002eca     0x1127 ./objects/tremo_rcc.o
+ .debug_info    0x00003ff1     0x11d5 ./objects/tremo_rtc.o
+ .debug_info    0x000051c6      0x4a5 ./objects/tremo_system.o
+ .debug_info    0x0000566b     0x1e68 ./objects/tremo_timer.o
+ .debug_info    0x000074d3      0xc7c ./objects/tremo_uart.o
+ .debug_info    0x0000814f      0x544 ./objects/tremo_wdg.o
+ .debug_info    0x00008693     0x236c ./objects/main.o
+ .debug_info    0x0000a9ff      0x136 ./objects/tremo_it.o
+ .debug_info    0x0000ab35      0xdf1 ./objects/lora_demo.o
+ .debug_info    0x0000b926     0x10b7 ./objects/app.o
+ .debug_info    0x0000c9dd       0xe8 ./objects/stm8_armcode.o
+ .debug_info    0x0000cac5     0x1340 ./objects/rtc-board.o
+ .debug_info    0x0000de05     0x1171 ./objects/sx1262-board.o
+ .debug_info    0x0000ef76      0x159 ./objects/delay.o
+ .debug_info    0x0000f0cf      0x970 ./objects/timer.o
+ .debug_info    0x0000fa3f     0x21ea ./objects/sx126x.o
+ .debug_info    0x00011c29     0x28e0 ./objects/radio.o
+ .debug_info    0x00014509      0x2fb ./objects/utilities.o
+ .debug_info    0x00014804      0x709 ./objects/modbus_core.o
+ .debug_info    0x00014f0d      0x110 ./objects/modbus_crc.o
+ .debug_info    0x0001501d      0x60e ./objects/modbus_hook.o
+ .debug_info    0x0001562b      0x7a4 ./objects/modbus_user.o
+ .debug_info    0x00015dcf     0x13ec ./objects/lora_at_cmd.o
+ .debug_info    0x000171bb      0x81c ./objects/lora_cmd_m.o
+ .debug_info    0x000179d7      0xbc2 ./objects/lora_cmd_s.o
+ .debug_info    0x00018599      0xe37 ./objects/lora_core.o
+ .debug_info    0x000193d0      0xb29 ./objects/lora_flash.o
+ .debug_info    0x00019ef9      0x6fc ./objects/lora_function.o
+ .debug_info    0x0001a5f5     0x15d1 ./objects/lora_user.o
+ .debug_info    0x0001bbc6      0x463 ./objects/ymodem.o
+ .debug_info    0x0001c029      0x5ee ./objects/mb_hook.o
+ .debug_info    0x0001c617     0x117b ./objects/mb_host.o
+ .debug_info    0x0001d792      0x796 ./objects/mb_port.o
+ .debug_info    0x0001df28      0x4fe ./objects/ringbuff.o
+ .debug_info    0x0001e426      0x109 ./objects/mbs_cmd_ctrl.o
+ .debug_info    0x0001e52f      0xebf ./objects/relay_ctrl.o
+ .debug_info    0x0001f3ee      0x3cb ./objects/rgb_ctrl.o
+
+.debug_abbrev   0x00000000     0x6568
+ .debug_abbrev  0x00000000       0x12 ./objects/startup_cm4.o
+ .debug_abbrev  0x00000012      0x1cd ./objects/system_cm4.o
+ .debug_abbrev  0x000001df      0x1d1 ./objects/tremo_bstimer.o
+ .debug_abbrev  0x000003b0      0x224 ./objects/tremo_delay.o
+ .debug_abbrev  0x000005d4      0x1d6 ./objects/tremo_flash.o
+ .debug_abbrev  0x000007aa      0x237 ./objects/tremo_gpio.o
+ .debug_abbrev  0x000009e1      0x211 ./objects/tremo_pwr.o
+ .debug_abbrev  0x00000bf2      0x263 ./objects/tremo_rcc.o
+ .debug_abbrev  0x00000e55      0x3bc ./objects/tremo_rtc.o
+ .debug_abbrev  0x00001211      0x142 ./objects/tremo_system.o
+ .debug_abbrev  0x00001353      0x27b ./objects/tremo_timer.o
+ .debug_abbrev  0x000015ce      0x31d ./objects/tremo_uart.o
+ .debug_abbrev  0x000018eb      0x18f ./objects/tremo_wdg.o
+ .debug_abbrev  0x00001a7a      0x3f1 ./objects/main.o
+ .debug_abbrev  0x00001e6b       0xd4 ./objects/tremo_it.o
+ .debug_abbrev  0x00001f3f      0x2e2 ./objects/lora_demo.o
+ .debug_abbrev  0x00002221      0x32a ./objects/app.o
+ .debug_abbrev  0x0000254b       0x61 ./objects/stm8_armcode.o
+ .debug_abbrev  0x000025ac      0x46c ./objects/rtc-board.o
+ .debug_abbrev  0x00002a18      0x3b5 ./objects/sx1262-board.o
+ .debug_abbrev  0x00002dcd       0xef ./objects/delay.o
+ .debug_abbrev  0x00002ebc      0x453 ./objects/timer.o
+ .debug_abbrev  0x0000330f      0x422 ./objects/sx126x.o
+ .debug_abbrev  0x00003731      0x4c6 ./objects/radio.o
+ .debug_abbrev  0x00003bf7      0x140 ./objects/utilities.o
+ .debug_abbrev  0x00003d37      0x1f4 ./objects/modbus_core.o
+ .debug_abbrev  0x00003f2b       0x9c ./objects/modbus_crc.o
+ .debug_abbrev  0x00003fc7      0x1a3 ./objects/modbus_hook.o
+ .debug_abbrev  0x0000416a      0x20f ./objects/modbus_user.o
+ .debug_abbrev  0x00004379      0x424 ./objects/lora_at_cmd.o
+ .debug_abbrev  0x0000479d      0x20e ./objects/lora_cmd_m.o
+ .debug_abbrev  0x000049ab      0x20d ./objects/lora_cmd_s.o
+ .debug_abbrev  0x00004bb8      0x276 ./objects/lora_core.o
+ .debug_abbrev  0x00004e2e      0x2ce ./objects/lora_flash.o
+ .debug_abbrev  0x000050fc      0x1b6 ./objects/lora_function.o
+ .debug_abbrev  0x000052b2      0x335 ./objects/lora_user.o
+ .debug_abbrev  0x000055e7      0x203 ./objects/ymodem.o
+ .debug_abbrev  0x000057ea      0x159 ./objects/mb_hook.o
+ .debug_abbrev  0x00005943      0x366 ./objects/mb_host.o
+ .debug_abbrev  0x00005ca9      0x1e1 ./objects/mb_port.o
+ .debug_abbrev  0x00005e8a      0x1ce ./objects/ringbuff.o
+ .debug_abbrev  0x00006058       0x93 ./objects/mbs_cmd_ctrl.o
+ .debug_abbrev  0x000060eb      0x2ef ./objects/relay_ctrl.o
+ .debug_abbrev  0x000063da      0x18e ./objects/rgb_ctrl.o
+
+.debug_aranges  0x00000000     0x13c8
+ .debug_aranges
+                0x00000000       0x28 ./objects/startup_cm4.o
+ .debug_aranges
+                0x00000028       0x28 ./objects/system_cm4.o
+ .debug_aranges
+                0x00000050       0x68 ./objects/tremo_bstimer.o
+ .debug_aranges
+                0x000000b8       0x30 ./objects/tremo_delay.o
+ .debug_aranges
+                0x000000e8       0x40 ./objects/tremo_flash.o
+ .debug_aranges
+                0x00000128       0x78 ./objects/tremo_gpio.o
+ .debug_aranges
+                0x000001a0       0x58 ./objects/tremo_pwr.o
+ .debug_aranges
+                0x000001f8      0x178 ./objects/tremo_rcc.o
+ .debug_aranges
+                0x00000370      0x120 ./objects/tremo_rtc.o
+ .debug_aranges
+                0x00000490       0x28 ./objects/tremo_system.o
+ .debug_aranges
+                0x000004b8      0x140 ./objects/tremo_timer.o
+ .debug_aranges
+                0x000005f8       0x98 ./objects/tremo_uart.o
+ .debug_aranges
+                0x00000690       0x38 ./objects/tremo_wdg.o
+ .debug_aranges
+                0x000006c8       0x50 ./objects/main.o
+ .debug_aranges
+                0x00000718       0x58 ./objects/tremo_it.o
+ .debug_aranges
+                0x00000770       0x60 ./objects/lora_demo.o
+ .debug_aranges
+                0x000007d0       0x28 ./objects/app.o
+ .debug_aranges
+                0x000007f8       0x18 ./objects/stm8_armcode.o
+ .debug_aranges
+                0x00000810       0x78 ./objects/rtc-board.o
+ .debug_aranges
+                0x00000888       0xd0 ./objects/sx1262-board.o
+ .debug_aranges
+                0x00000958       0x28 ./objects/delay.o
+ .debug_aranges
+                0x00000980       0xa0 ./objects/timer.o
+ .debug_aranges
+                0x00000a20      0x198 ./objects/sx126x.o
+ .debug_aranges
+                0x00000bb8      0x140 ./objects/radio.o
+ .debug_aranges
+                0x00000cf8       0x50 ./objects/utilities.o
+ .debug_aranges
+                0x00000d48       0x48 ./objects/modbus_core.o
+ .debug_aranges
+                0x00000d90       0x20 ./objects/modbus_crc.o
+ .debug_aranges
+                0x00000db0       0x48 ./objects/modbus_hook.o
+ .debug_aranges
+                0x00000df8       0x60 ./objects/modbus_user.o
+ .debug_aranges
+                0x00000e58       0xd0 ./objects/lora_at_cmd.o
+ .debug_aranges
+                0x00000f28       0x58 ./objects/lora_cmd_m.o
+ .debug_aranges
+                0x00000f80       0x68 ./objects/lora_cmd_s.o
+ .debug_aranges
+                0x00000fe8       0x40 ./objects/lora_core.o
+ .debug_aranges
+                0x00001028       0x68 ./objects/lora_flash.o
+ .debug_aranges
+                0x00001090       0x68 ./objects/lora_function.o
+ .debug_aranges
+                0x000010f8       0x80 ./objects/lora_user.o
+ .debug_aranges
+                0x00001178       0x30 ./objects/ymodem.o
+ .debug_aranges
+                0x000011a8       0x48 ./objects/mb_hook.o
+ .debug_aranges
+                0x000011f0       0x78 ./objects/mb_host.o
+ .debug_aranges
+                0x00001268       0x68 ./objects/mb_port.o
+ .debug_aranges
+                0x000012d0       0x58 ./objects/ringbuff.o
+ .debug_aranges
+                0x00001328       0x20 ./objects/mbs_cmd_ctrl.o
+ .debug_aranges
+                0x00001348       0x50 ./objects/relay_ctrl.o
+ .debug_aranges
+                0x00001398       0x30 ./objects/rgb_ctrl.o
+
+.debug_str      0x00000000     0x82c3
+ .debug_str     0x00000000       0x4d ./objects/startup_cm4.o
+ .debug_str     0x0000004d      0x585 ./objects/system_cm4.o
+                                0x61a (size before relaxing)
+ .debug_str     0x000005d2      0x5de ./objects/tremo_bstimer.o
+                                0x810 (size before relaxing)
+ .debug_str     0x00000bb0       0xc3 ./objects/tremo_delay.o
+                                0x5cc (size before relaxing)
+ .debug_str     0x00000c73       0xe5 ./objects/tremo_flash.o
+                                0x3dc (size before relaxing)
+ .debug_str     0x00000d58      0x310 ./objects/tremo_gpio.o
+                                0x8b2 (size before relaxing)
+ .debug_str     0x00001068       0xda ./objects/tremo_pwr.o
+                                0x69b (size before relaxing)
+ .debug_str     0x00001142      0xed7 ./objects/tremo_rcc.o
+                               0x1523 (size before relaxing)
+ .debug_str     0x00002019      0x865 ./objects/tremo_rtc.o
+                                0xeb5 (size before relaxing)
+ .debug_str     0x0000287e       0x55 ./objects/tremo_system.o
+                                0x399 (size before relaxing)
+ .debug_str     0x000028d3     0x1af7 ./objects/tremo_timer.o
+                               0x2254 (size before relaxing)
+ .debug_str     0x000043ca      0x51e ./objects/tremo_uart.o
+                                0xba6 (size before relaxing)
+ .debug_str     0x000048e8       0xfe ./objects/tremo_wdg.o
+                                0x69b (size before relaxing)
+ .debug_str     0x000049e6      0x385 ./objects/main.o
+                               0x1615 (size before relaxing)
+ .debug_str     0x00004d6b       0xd3 ./objects/tremo_it.o
+                                0x220 (size before relaxing)
+ .debug_str     0x00004e3e      0x189 ./objects/lora_demo.o
+                                0x72c (size before relaxing)
+ .debug_str     0x00004fc7      0x306 ./objects/app.o
+                                0x88f (size before relaxing)
+ .debug_str     0x000052cd       0x25 ./objects/stm8_armcode.o
+                                0x24b (size before relaxing)
+ .debug_str     0x000052f2      0x319 ./objects/rtc-board.o
+                                0xf6d (size before relaxing)
+ .debug_str     0x0000560b      0x5f3 ./objects/sx1262-board.o
+                                0xc9e (size before relaxing)
+ .debug_str     0x00005bfe       0x17 ./objects/delay.o
+                                0x211 (size before relaxing)
+ .debug_str     0x00005c15      0x25a ./objects/timer.o
+                                0x584 (size before relaxing)
+ .debug_str     0x00005e6f      0xedb ./objects/sx126x.o
+                               0x1747 (size before relaxing)
+ .debug_str     0x00006d4a      0x4fa ./objects/radio.o
+                               0x15db (size before relaxing)
+ .debug_str     0x00007244       0x47 ./objects/utilities.o
+                                0x2ac (size before relaxing)
+ .debug_str     0x0000728b      0x23b ./objects/modbus_core.o
+                                0x5ba (size before relaxing)
+ .debug_str     0x000074c6       0x37 ./objects/modbus_crc.o
+                                0x1d2 (size before relaxing)
+ .debug_str     0x000074fd       0xfd ./objects/modbus_hook.o
+                                0x4eb (size before relaxing)
+ .debug_str     0x000075fa       0x77 ./objects/modbus_user.o
+                                0x450 (size before relaxing)
+ .debug_str     0x00007671      0x253 ./objects/lora_at_cmd.o
+                                0x721 (size before relaxing)
+ .debug_str     0x000078c4       0xc0 ./objects/lora_cmd_m.o
+                                0x52e (size before relaxing)
+ .debug_str     0x00007984       0x77 ./objects/lora_cmd_s.o
+                                0x655 (size before relaxing)
+ .debug_str     0x000079fb      0x13d ./objects/lora_core.o
+                                0x7f4 (size before relaxing)
+ .debug_str     0x00007b38       0xac ./objects/lora_flash.o
+                                0x5b1 (size before relaxing)
+ .debug_str     0x00007be4       0x96 ./objects/lora_function.o
+                                0x49d (size before relaxing)
+ .debug_str     0x00007c7a       0x5a ./objects/lora_user.o
+                                0xcf5 (size before relaxing)
+ .debug_str     0x00007cd4       0x90 ./objects/ymodem.o
+                                0x354 (size before relaxing)
+ .debug_str     0x00007d64       0x9f ./objects/mb_hook.o
+                                0x38f (size before relaxing)
+ .debug_str     0x00007e03      0x108 ./objects/mb_host.o
+                                0x56d (size before relaxing)
+ .debug_str     0x00007f0b      0x1b7 ./objects/mb_port.o
+                                0x50a (size before relaxing)
+ .debug_str     0x000080c2       0x77 ./objects/ringbuff.o
+                                0x340 (size before relaxing)
+ .debug_str     0x00008139       0x64 ./objects/mbs_cmd_ctrl.o
+                                0x25d (size before relaxing)
+ .debug_str     0x0000819d       0xc5 ./objects/relay_ctrl.o
+                                0x3f5 (size before relaxing)
+ .debug_str     0x00008262       0x61 ./objects/rgb_ctrl.o
+                                0x31f (size before relaxing)
+
+.debug_ranges   0x00000000     0x1a70
+ .debug_ranges  0x00000000       0x20 ./objects/startup_cm4.o
+ .debug_ranges  0x00000020       0x70 ./objects/system_cm4.o
+ .debug_ranges  0x00000090       0x58 ./objects/tremo_bstimer.o
+ .debug_ranges  0x000000e8       0x58 ./objects/tremo_delay.o
+ .debug_ranges  0x00000140       0x90 ./objects/tremo_flash.o
+ .debug_ranges  0x000001d0       0x68 ./objects/tremo_gpio.o
+ .debug_ranges  0x00000238       0x60 ./objects/tremo_pwr.o
+ .debug_ranges  0x00000298      0x180 ./objects/tremo_rcc.o
+ .debug_ranges  0x00000418      0x140 ./objects/tremo_rtc.o
+ .debug_ranges  0x00000558       0x18 ./objects/tremo_system.o
+ .debug_ranges  0x00000570      0x130 ./objects/tremo_timer.o
+ .debug_ranges  0x000006a0       0x88 ./objects/tremo_uart.o
+ .debug_ranges  0x00000728       0x28 ./objects/tremo_wdg.o
+ .debug_ranges  0x00000750      0x198 ./objects/main.o
+ .debug_ranges  0x000008e8       0x48 ./objects/tremo_it.o
+ .debug_ranges  0x00000930       0x70 ./objects/lora_demo.o
+ .debug_ranges  0x000009a0      0x100 ./objects/app.o
+ .debug_ranges  0x00000aa0      0x140 ./objects/rtc-board.o
+ .debug_ranges  0x00000be0      0x188 ./objects/sx1262-board.o
+ .debug_ranges  0x00000d68       0x30 ./objects/delay.o
+ .debug_ranges  0x00000d98       0xf0 ./objects/timer.o
+ .debug_ranges  0x00000e88      0x1e8 ./objects/sx126x.o
+ .debug_ranges  0x00001070      0x1a8 ./objects/radio.o
+ .debug_ranges  0x00001218       0x40 ./objects/utilities.o
+ .debug_ranges  0x00001258       0x50 ./objects/modbus_core.o
+ .debug_ranges  0x000012a8       0x10 ./objects/modbus_crc.o
+ .debug_ranges  0x000012b8       0x38 ./objects/modbus_hook.o
+ .debug_ranges  0x000012f0      0x138 ./objects/modbus_user.o
+ .debug_ranges  0x00001428      0x118 ./objects/lora_at_cmd.o
+ .debug_ranges  0x00001540       0x48 ./objects/lora_cmd_m.o
+ .debug_ranges  0x00001588       0x58 ./objects/lora_cmd_s.o
+ .debug_ranges  0x000015e0       0x48 ./objects/lora_core.o
+ .debug_ranges  0x00001628       0x58 ./objects/lora_flash.o
+ .debug_ranges  0x00001680       0x58 ./objects/lora_function.o
+ .debug_ranges  0x000016d8       0xa0 ./objects/lora_user.o
+ .debug_ranges  0x00001778       0x38 ./objects/ymodem.o
+ .debug_ranges  0x000017b0       0x38 ./objects/mb_hook.o
+ .debug_ranges  0x000017e8      0x118 ./objects/mb_host.o
+ .debug_ranges  0x00001900       0x58 ./objects/mb_port.o
+ .debug_ranges  0x00001958       0x78 ./objects/ringbuff.o
+ .debug_ranges  0x000019d0       0x10 ./objects/mbs_cmd_ctrl.o
+ .debug_ranges  0x000019e0       0x70 ./objects/relay_ctrl.o
+ .debug_ranges  0x00001a50       0x20 ./objects/rgb_ctrl.o
+
+.debug_loc      0x00000000     0xe320
+ .debug_loc     0x00000000       0xc3 ./objects/system_cm4.o
+ .debug_loc     0x000000c3      0x136 ./objects/tremo_bstimer.o
+ .debug_loc     0x000001f9      0x1fe ./objects/tremo_delay.o
+ .debug_loc     0x000003f7      0x4a9 ./objects/tremo_flash.o
+ .debug_loc     0x000008a0      0x850 ./objects/tremo_gpio.o
+ .debug_loc     0x000010f0      0x15f ./objects/tremo_pwr.o
+ .debug_loc     0x0000124f      0x777 ./objects/tremo_rcc.o
+ .debug_loc     0x000019c6      0xe95 ./objects/tremo_rtc.o
+ .debug_loc     0x0000285b       0x42 ./objects/tremo_system.o
+ .debug_loc     0x0000289d     0x1140 ./objects/tremo_timer.o
+ .debug_loc     0x000039dd      0x6e6 ./objects/tremo_uart.o
+ .debug_loc     0x000040c3       0x2c ./objects/tremo_wdg.o
+ .debug_loc     0x000040ef      0x2bf ./objects/main.o
+ .debug_loc     0x000043ae      0x21e ./objects/lora_demo.o
+ .debug_loc     0x000045cc      0x1ba ./objects/app.o
+ .debug_loc     0x00004786      0x67f ./objects/rtc-board.o
+ .debug_loc     0x00004e05      0x851 ./objects/sx1262-board.o
+ .debug_loc     0x00005656       0xb2 ./objects/delay.o
+ .debug_loc     0x00005708      0x6d8 ./objects/timer.o
+ .debug_loc     0x00005de0     0x11a4 ./objects/sx126x.o
+ .debug_loc     0x00006f84     0x14a9 ./objects/radio.o
+ .debug_loc     0x0000842d      0x25d ./objects/utilities.o
+ .debug_loc     0x0000868a      0x207 ./objects/modbus_core.o
+ .debug_loc     0x00008891      0x10e ./objects/modbus_crc.o
+ .debug_loc     0x0000899f      0x4ff ./objects/modbus_hook.o
+ .debug_loc     0x00008e9e      0x776 ./objects/modbus_user.o
+ .debug_loc     0x00009614      0xd5b ./objects/lora_at_cmd.o
+ .debug_loc     0x0000a36f      0x228 ./objects/lora_cmd_m.o
+ .debug_loc     0x0000a597      0x1eb ./objects/lora_cmd_s.o
+ .debug_loc     0x0000a782      0x4dd ./objects/lora_core.o
+ .debug_loc     0x0000ac5f      0x4d7 ./objects/lora_flash.o
+ .debug_loc     0x0000b136      0x3ec ./objects/lora_function.o
+ .debug_loc     0x0000b522      0x44e ./objects/lora_user.o
+ .debug_loc     0x0000b970      0x3ff ./objects/ymodem.o
+ .debug_loc     0x0000bd6f      0x62a ./objects/mb_hook.o
+ .debug_loc     0x0000c399      0xdec ./objects/mb_host.o
+ .debug_loc     0x0000d185      0x326 ./objects/mb_port.o
+ .debug_loc     0x0000d4ab      0x36a ./objects/ringbuff.o
+ .debug_loc     0x0000d815       0x2c ./objects/mbs_cmd_ctrl.o
+ .debug_loc     0x0000d841      0x9d7 ./objects/relay_ctrl.o
+ .debug_loc     0x0000e218      0x108 ./objects/rgb_ctrl.o
+
+.comment        0x00000000       0x49
+ .comment       0x00000000       0x49 ./objects/system_cm4.o
+                                 0x4a (size before relaxing)
+ .comment       0x00000049       0x4a ./objects/tremo_bstimer.o
+ .comment       0x00000049       0x4a ./objects/tremo_delay.o
+ .comment       0x00000049       0x4a ./objects/tremo_flash.o
+ .comment       0x00000049       0x4a ./objects/tremo_gpio.o
+ .comment       0x00000049       0x4a ./objects/tremo_pwr.o
+ .comment       0x00000049       0x4a ./objects/tremo_rcc.o
+ .comment       0x00000049       0x4a ./objects/tremo_rtc.o
+ .comment       0x00000049       0x4a ./objects/tremo_system.o
+ .comment       0x00000049       0x4a ./objects/tremo_timer.o
+ .comment       0x00000049       0x4a ./objects/tremo_uart.o
+ .comment       0x00000049       0x4a ./objects/tremo_wdg.o
+ .comment       0x00000049       0x4a ./objects/main.o
+ .comment       0x00000049       0x4a ./objects/tremo_it.o
+ .comment       0x00000049       0x4a ./objects/lora_demo.o
+ .comment       0x00000049       0x4a ./objects/app.o
+ .comment       0x00000049       0x4a ./objects/stm8_armcode.o
+ .comment       0x00000049       0x4a ./objects/rtc-board.o
+ .comment       0x00000049       0x4a ./objects/sx1262-board.o
+ .comment       0x00000049       0x4a ./objects/delay.o
+ .comment       0x00000049       0x4a ./objects/timer.o
+ .comment       0x00000049       0x4a ./objects/sx126x.o
+ .comment       0x00000049       0x4a ./objects/radio.o
+ .comment       0x00000049       0x4a ./objects/utilities.o
+ .comment       0x00000049       0x4a ./objects/modbus_core.o
+ .comment       0x00000049       0x4a ./objects/modbus_crc.o
+ .comment       0x00000049       0x4a ./objects/modbus_hook.o
+ .comment       0x00000049       0x4a ./objects/modbus_user.o
+ .comment       0x00000049       0x4a ./objects/lora_at_cmd.o
+ .comment       0x00000049       0x4a ./objects/lora_cmd_m.o
+ .comment       0x00000049       0x4a ./objects/lora_cmd_s.o
+ .comment       0x00000049       0x4a ./objects/lora_core.o
+ .comment       0x00000049       0x4a ./objects/lora_flash.o
+ .comment       0x00000049       0x4a ./objects/lora_function.o
+ .comment       0x00000049       0x4a ./objects/lora_user.o
+ .comment       0x00000049       0x4a ./objects/ymodem.o
+ .comment       0x00000049       0x4a ./objects/mb_hook.o
+ .comment       0x00000049       0x4a ./objects/mb_host.o
+ .comment       0x00000049       0x4a ./objects/mb_port.o
+ .comment       0x00000049       0x4a ./objects/ringbuff.o
+ .comment       0x00000049       0x4a ./objects/mbs_cmd_ctrl.o
+ .comment       0x00000049       0x4a ./objects/relay_ctrl.o
+ .comment       0x00000049       0x4a ./objects/rgb_ctrl.o
+
+.debug_frame    0x00000000     0x36b4
+ .debug_frame   0x00000000       0x3c ./objects/system_cm4.o
+ .debug_frame   0x0000003c       0xc8 ./objects/tremo_bstimer.o
+ .debug_frame   0x00000104       0x54 ./objects/tremo_delay.o
+ .debug_frame   0x00000158       0x9c ./objects/tremo_flash.o
+ .debug_frame   0x000001f4      0x114 ./objects/tremo_gpio.o
+ .debug_frame   0x00000308       0xa8 ./objects/tremo_pwr.o
+ .debug_frame   0x000003b0      0x2d8 ./objects/tremo_rcc.o
+ .debug_frame   0x00000688      0x318 ./objects/tremo_rtc.o
+ .debug_frame   0x000009a0       0x30 ./objects/tremo_system.o
+ .debug_frame   0x000009d0      0x2e4 ./objects/tremo_timer.o
+ .debug_frame   0x00000cb4      0x138 ./objects/tremo_uart.o
+ .debug_frame   0x00000dec       0x5c ./objects/tremo_wdg.o
+ .debug_frame   0x00000e48       0xe4 ./objects/main.o
+ .debug_frame   0x00000f2c       0xc0 ./objects/tremo_it.o
+ .debug_frame   0x00000fec      0x118 ./objects/lora_demo.o
+ .debug_frame   0x00001104       0x48 ./objects/app.o
+ .debug_frame   0x0000114c      0x160 ./objects/rtc-board.o
+ .debug_frame   0x000012ac      0x25c ./objects/sx1262-board.o
+ .debug_frame   0x00001508       0x30 ./objects/delay.o
+ .debug_frame   0x00001538      0x1b4 ./objects/timer.o
+ .debug_frame   0x000016ec      0x4c0 ./objects/sx126x.o
+ .debug_frame   0x00001bac      0x3c0 ./objects/radio.o
+ .debug_frame   0x00001f6c       0x8c ./objects/utilities.o
+ .debug_frame   0x00001ff8       0xa0 ./objects/modbus_core.o
+ .debug_frame   0x00002098       0x2c ./objects/modbus_crc.o
+ .debug_frame   0x000020c4      0x108 ./objects/modbus_hook.o
+ .debug_frame   0x000021cc       0xf0 ./objects/modbus_user.o
+ .debug_frame   0x000022bc      0x2c8 ./objects/lora_at_cmd.o
+ .debug_frame   0x00002584      0x110 ./objects/lora_cmd_m.o
+ .debug_frame   0x00002694      0x110 ./objects/lora_cmd_s.o
+ .debug_frame   0x000027a4      0x174 ./objects/lora_core.o
+ .debug_frame   0x00002918      0x138 ./objects/lora_flash.o
+ .debug_frame   0x00002a50       0xf0 ./objects/lora_function.o
+ .debug_frame   0x00002b40      0x190 ./objects/lora_user.o
+ .debug_frame   0x00002cd0       0x5c ./objects/ymodem.o
+ .debug_frame   0x00002d2c      0x100 ./objects/mb_hook.o
+ .debug_frame   0x00002e2c      0x1a0 ./objects/mb_host.o
+ .debug_frame   0x00002fcc       0xd0 ./objects/mb_port.o
+ .debug_frame   0x0000309c       0xc0 ./objects/ringbuff.o
+ .debug_frame   0x0000315c       0x2c ./objects/mbs_cmd_ctrl.o
+ .debug_frame   0x00003188       0xe4 ./objects/relay_ctrl.o
+ .debug_frame   0x0000326c       0x4c ./objects/rgb_ctrl.o
+ .debug_frame   0x000032b8       0xac e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x00003364       0x50 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivdf3.o)
+ .debug_frame   0x000033b4       0xc4 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpdf2.o)
+ .debug_frame   0x00003478       0x24 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunsdfsi.o)
+ .debug_frame   0x0000349c       0x2c e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_fixunsdfdi.o)
+ .debug_frame   0x000034c8       0x2c e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-init.o)
+ .debug_frame   0x000034f4       0x2c e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memset.o)
+ .debug_frame   0x00003520       0x5c e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000357c       0x20 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atexit.o)
+ .debug_frame   0x0000359c       0x34 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-fini.o)
+ .debug_frame   0x000035d0       0xb0 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+ .debug_frame   0x00003680       0x34 e:/software/gcc_2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__atexit.o)

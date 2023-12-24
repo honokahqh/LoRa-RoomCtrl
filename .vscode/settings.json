@@ -1,0 +1,30 @@
+{
+    "files.associations": {
+        "lora_core.h": "c",
+        "tremo_rtc.h": "c",
+        "tremo_system.h": "c",
+        "flash.h": "c",
+        "app.h": "c",
+        "tremo_regs.h": "c",
+        "modbus_core.h": "c",
+        "lora_user.h": "c",
+        "modbus_user.h": "c",
+        "lora_at_cmd.h": "c",
+        "ymodem.h": "c",
+        "mb_include.h": "c",
+        "string.h": "c",
+        "ringbuff.h": "c",
+        "lora_flash.h": "c",
+        "compare": "c",
+        "type_traits": "c",
+        "stdio.h": "c",
+        "mb_port.h": "c",
+        "modbus_crc.h": "c",
+        "mb_host.h": "c",
+        "sendpacket.h": "c",
+        "mbs_cmd_ctrl.h": "c",
+        "radio.h": "c",
+        "timer.h": "c"
+    },
+    "files.encoding": "gbk"
+}
