@@ -17,15 +17,7 @@
  */
 /*Modbus slaver By Honokahqh*/
 /***************************************************************/
-#define MBS_SelfAddr    123
-#define MBS_RoomCtrlAddr   80  
-#if ROOM_TYPE	
-#define Dev_Version     112
-#define MBS_Version     242
-#else
-#define Dev_Version     102
-#define MBS_Version 	232
-#endif
+
 /***************************************************************/
 #define	MBS_FUNCTION_01_ENABLE			        (1)			
 #define	MBS_FUNCTION_02_ENABLE			        (0)

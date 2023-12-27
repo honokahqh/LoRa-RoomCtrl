@@ -95,7 +95,7 @@ void CusProfile_Receive()
         CusProfile_Send(Lora_State.Rx_SAddr, Master_Request_Leave, NULL, 0, TRUE);
         return;
     }
-    
+    Lora_State.Device_RSSI = Lora_State.Rx_RSSI;
 DataProcess:
     switch (Lora_State.Rx_CMD)
     {

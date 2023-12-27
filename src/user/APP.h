@@ -22,7 +22,7 @@
 #include "tremo_wdg.h"
 #include "tremo_dac.h"
 #include "pt.h"
-
+	
 #include "Modbus_CORE.h"
 #include "mb_include.h"
 #include "ringbuff.h"
@@ -32,6 +32,16 @@
 // Ð¡ÖÐ¿Ø 10¼ÌµçÆ÷ + 3 PWM
 #define ROOM_PLUS	1
 #define ROOM_MINI	0
+
+#define MBS_SelfAddr    123
+#define MBS_RoomCtrlAddr   80  
+#if ROOM_TYPE	
+#define Dev_Version     112
+#define MBS_Version     242
+#else
+#define Dev_Version     102
+#define MBS_Version 	232
+#endif
 
 #if ROOM_TYPE
 	#define Relay_1A1_PORT GPIOA

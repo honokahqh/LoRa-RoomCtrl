@@ -101,7 +101,7 @@ extern MBS_Map_t MBS_Switch;
 #define RoomIR_ADDR  0x7D
 #define MBS_RoomIR_RegNum  3
 #define MBS_RoomIR_CoilNum  31
-#define MBS_RoomIR_Ver    1
+#define MBS_RoomIR_Ver    0
 #define MBS_RoomIR_Index  6
 extern MBS_Reg_t mbs_reg_roomir[MBS_RoomIR_RegNum];
 extern MBS_Coil_t mbs_coil_roomir[MBS_RoomIR_CoilNum];

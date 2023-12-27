@@ -502,7 +502,7 @@ static void State_Updata()
     {
         if (Lora_State.Net_State == Net_JoinGateWay && ymodem_session.state == YMODEM_STATE_IDLE)
         {
-            Lora_State.Device_RSSI = -100;
+            Lora_State.Device_RSSI = 255;
             PCmd_HeartBeat();
             Cmd_Query_SubVersion();
         }

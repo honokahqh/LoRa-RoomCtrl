@@ -147,7 +147,7 @@ void PCmd_Slaver_Request_Leave()
  */
 void PCmd_HeartBeat()
 {
-    uint8_t temp[6];
+    uint8_t temp[4];
     if (Lora_State.isMaster)
     {
         return;
@@ -162,11 +162,11 @@ void PCmd_HeartBeat()
 #else
     temp[1] = Dev_Version - 100;
 #endif
-    temp[2] = MBS_ALL[MBS_RoomIR_Index].map->reg[2].data >> 8;
-    temp[3] = MBS_ALL[MBS_RoomIR_Index].map->reg[2].data;
-    temp[4] = Lora_State.Device_RSSI >> 8;
-    temp[5] = Lora_State.Device_RSSI;
-    CusProfile_Send(0x0000, HeartBeat, temp, 6, FALSE);
+    // temp[2] = MBS_ALL[MBS_RoomIR_Index].map->reg[2].data >> 8;
+    // temp[3] = MBS_ALL[MBS_RoomIR_Index].map->reg[2].data;
+    temp[2] = Lora_State.Device_RSSI >> 8;
+    temp[3] = Lora_State.Device_RSSI;
+    CusProfile_Send(0x0000, HeartBeat, temp, 4, FALSE);
 }
 
 /**
